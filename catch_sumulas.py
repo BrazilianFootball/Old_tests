@@ -16,7 +16,13 @@ with open('errors.csv', 'w', newline = '') as file:
         		for comp in competicoes:
                 		file = path + comp[0] + str(j + 1) + end_path
                 		try:
-                                        tabula.convert_into(file, comp[1] + '/20' + str(i) + '/Jogo ' + str(j + 1) + '.csv', pages = 'all')
+                                        if j < 9:
+                                                game = '00' + str(j + 1)
+                                        elif j < 99:
+                                                game = '0' + str(j + 1)
+                                        else:
+                                                game = str(j + 1)
+                                        tabula.convert_into(file, comp[1] + '/20' + str(i) + '/Game ' + game + '.csv', pages = 'all')
                                         time.sleep(0.1)
         			except:
-                			writer.writerow([comp[1], '20' + str(i), str(j + 1)])
+                			writer.writerow([comp[1], '20' + str(i), game])
