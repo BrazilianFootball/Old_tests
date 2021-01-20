@@ -243,3 +243,33 @@ def find_game_players(file):
                 cont += 1
 
     return changes
+
+def find_goals(file):
+    players = find_players(file)
+    with open(file) as output_file:
+        begin = False
+        goals = [['CBF', 'Tempo', '1T/2T', 'Type']]
+        reader = csv.reader(output_file, delimiter = ',')
+        error = 0
+        for line in reader:
+            if 'Gols' in line:
+                begin = True
+                cont = 0
+
+            if begin:
+                try:
+                    int(line[0])
+                except:
+                    error += 1
+
+                if error > 3:
+                    break
+
+                if cont > 1:
+                    for player in players:
+                        if player[3] == line[2] and player[4] == line[-1]:
+                            goals.append([player[0], line[0], line[1], line[3]])
+
+                cont += 1
+
+    return goals
