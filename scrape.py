@@ -2,7 +2,7 @@ import tabula
 import csv
 import time
 
-competicoes = [['/142', 'Serie A'], ['/242', 'Serie B'], ['/342', 'Serie C'], ['/542', 'Serie D'], ['/424', 'Copa do Brasil']]
+competitions = [['/142', 'Serie A'], ['/242', 'Serie B'], ['/342', 'Serie C'], ['/542', 'Serie D'], ['/424', 'Copa do Brasil']]
 end_path = 'se.pdf'
 
 with open('errors.csv', 'w', newline = '') as file:
@@ -13,7 +13,7 @@ with open('errors.csv', 'w', newline = '') as file:
         	for j in range(600):
                 	if (j + 1) % 100 == 0:
                                 print("Ano: 20" + str(i), "Jogos:", j)
-        		for comp in competicoes:
+        		for comp in competitions:
                 		file = path + comp[0] + str(j + 1) + end_path
                 		try:
                                         if j < 9:

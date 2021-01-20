@@ -1,7 +1,6 @@
-import csv
 from functions import *
 
-competicoes = ['Serie A', 'Serie B', 'Serie C', 'Serie D', 'Copa do Brasil']
+competitions = ['Serie A', 'Serie B', 'Serie C', 'Serie D', 'Copa do Brasil']
 years = ['2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020']
 
 with open('errors_participations.csv', 'w', newline = '') as error_file:
@@ -11,7 +10,7 @@ with open('errors_participations.csv', 'w', newline = '') as error_file:
         for game in range(1, 601):
             if game % 100 == 0:
                 print(year, game)
-            for comp in competicoes:
+            for comp in competitions:
                 try:
                     file = 'Súmulas/' + comp + '/' + year + '/Game '
                     path = 'Participações/' + comp + '/' + year + '/Game '

@@ -1,3 +1,5 @@
+import csv
+
 def remove_space(string):
     new_string = ''
     for carac in string:
