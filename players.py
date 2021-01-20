@@ -23,7 +23,22 @@ for comp in competitions:
             except:
                 pass
 
+print('Excluding duplicates')
+
+IDs = []
+final_players = []
+for player in all_players:
+    if player[0] not in IDs:
+        IDs.append(player[0])
+        final_players.append(player)
+    else:
+        index = IDs.index(player[0])
+        if len(player[1]) > len(final_players[index][1]):
+            final_players[index] = player            
+
+print('Saving')
+
 with open('players.csv', 'w', newline = '') as file:
 	writer = csv.writer(file)
-	for line in all_players:
+	for line in final_players:
             writer.writerow(line)
