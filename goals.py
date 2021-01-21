@@ -1,5 +1,9 @@
 from functions import *
 
+'''
+Script to find out which players scored goals (with time) and save to a .csv file with all goals of all games of one season
+'''
+
 folder = 'All data/'
 competitions = ['Serie A', 'Serie B', 'Serie C', 'Serie D', 'Copa do Brasil']
 years = ['2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020']

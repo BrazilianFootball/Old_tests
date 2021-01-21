@@ -1,5 +1,9 @@
 from functions import *
 
+'''
+Script to create a .csv file with all ID CBF, nicknames and names of all players
+'''
+
 folder = 'All data/'
 competitions = ['Serie A', 'Serie B', 'Serie C', 'Serie D', 'Copa do Brasil']
 years = ['2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020']

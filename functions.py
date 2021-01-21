@@ -1,6 +1,9 @@
 import csv
 
 def remove_space(string):
+    '''
+    removes all spaces of a string
+    '''
     new_string = ''
     for carac in string:
         if carac != ' ':
@@ -9,6 +12,11 @@ def remove_space(string):
     return new_string
 
 def find_carac(string, carac, n = 1):
+    '''
+    receives a string, a caractere and a number n
+    and returns the index of n-th aparition of this
+    caractere in the string
+    '''
     cont = 0
     for i in range(len(string)):
         if string[i] in carac:
@@ -16,16 +24,22 @@ def find_carac(string, carac, n = 1):
                 cont += 1
             else:
                 return i
+            
     if cont == n:
         return len(string) - 1
     else:
         return None
 
 def teams(line):
+    '''
+    receives a line (string list) and
+    returns the team names in this line
+    '''
     team = []
     for element in line:
         if element != '':
             team.append(element)
+            
     team1 = team[0]
     team2 = team[1]
     team1 = remove_space(team1)
@@ -34,6 +48,10 @@ def teams(line):
     return team1, team2
 
 def find_name(string):
+    '''
+    receives a string and returns
+    nickname and name of a player
+    '''
     names = string.split()
     for i in range(len(names)):
         if names[i] == names[0]:
@@ -66,6 +84,15 @@ def find_name(string):
     return apelido, nome
 
 def list2string(line):
+    '''
+    receives a line (string list) and create
+    a string without player's marks:
+    T = holder
+    R = reserve
+    g = goalkeeper
+    P = professional
+    A = amateur
+    '''
     string = line[0]
     for i in range(1, len(line)):
         if line[i] not in 'T(g)RPA':
@@ -74,6 +101,11 @@ def list2string(line):
     return string
 
 def catch_data(all_data):
+    '''
+    receives a string with all player data and
+    returns ID CBF, nickname, name, no and end
+    of player data
+    '''
     if all_data[1] == ' ':
         no = all_data[0]
         n = 7
@@ -91,6 +123,10 @@ def catch_data(all_data):
     return CBF, apelido, nome, no, end_player
 
 def find_players(file):
+    '''
+    receives a .csv file and returns a list with ID CBF, nickname,
+    name, no and team of all relacioned players 
+    '''
     with open(file) as output_file:
         fplayer = False
         players = [['CBF', 'Apelido', 'Nome', 'Nº', 'Clube']]
@@ -149,6 +185,9 @@ def find_players(file):
     return players
 
 def list2string2(line):
+    '''
+    another function to transform list in string
+    '''
     string = line[0]
     for i in range(1, len(line)):
         if line[i] != '':
@@ -157,6 +196,10 @@ def list2string2(line):
     return string
 
 def find_game_players(file):
+    '''
+    receives a .csv file and returns a list with ID CBF, nickname,
+    name, no and team of all players who played (time in and time out)
+    '''
     with open(file) as output_file:
         subs = False
         changes = [['CBF', 'In', 'Out', 'Nº', 'Clube']]
@@ -194,6 +237,7 @@ def find_game_players(file):
                         clube = line[2]
                         player_in = line[3]
                         player_out = line[4]
+                        
                         if player_in[1] == ' ':
                             no_in = player_in[0]
                         else:
@@ -239,12 +283,15 @@ def find_game_players(file):
                         if player[3] == no_out and player[4] == clube:
                             player[2] = time
                         
-                        
                 cont += 1
 
     return changes
 
 def find_goals(file):
+    '''
+    receives a .csv and returns a list with player ID CBF,
+    time, period and type of each goal
+    '''
     players = find_players(file)
     with open(file) as output_file:
         begin = False
