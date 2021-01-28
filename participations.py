@@ -6,7 +6,8 @@ and save to a .csv file
 '''
 
 competitions = ['Serie A', 'Serie B', 'Serie C', 'Serie D', 'Copa do Brasil']
-years = ['2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020']
+years = [str(i) for i in range(2013, 2021)]
+create_folders(competitions, years)
 
 with open('errors_participations.csv', 'w', newline = '') as error_file:
     error_writer = csv.writer(error_file)

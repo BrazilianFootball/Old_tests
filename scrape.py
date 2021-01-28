@@ -9,6 +9,18 @@ General path: https://conteudo.cbf.com.br/sumulas/YEAR/COMPETITION_ID + GAME_NUM
 
 j up to 600 to catch all games of all competitions
 '''
+competitions = ['Serie A', 'Serie B', 'Serie C', 'Serie D', 'Copa do Brasil']
+years = [str(i) for i in range(2013, 2021)]
+for competition in competitions:
+        try:
+                os.stat(competition)
+        except:
+                os.mkdir(competition)
+        for year in years:
+                try:
+                        os.stat(competition + '/' + year)
+                except:
+                        os.mkdir(competition + '/' + year)
 
 competitions = [['/142', 'Serie A'], ['/242', 'Serie B'], ['/342', 'Serie C'], ['/542', 'Serie D'], ['/424', 'Copa do Brasil']]
 end_path = 'se.pdf'

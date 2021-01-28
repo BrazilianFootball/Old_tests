@@ -1,4 +1,17 @@
 import csv
+import os
+
+def create_folders(competitions, years):
+    for competition in competitions:
+        try:
+            os.stat(competition)
+        except:
+            os.mkdir(competition)
+        for year in years:
+            try:
+                os.stat(competition + '/' + year)
+            except:
+                os.mkdir(competition + '/' + year)
 
 def remove_space(string):
     '''
