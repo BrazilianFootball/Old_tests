@@ -13,7 +13,7 @@ j up to 600 to catch all games of all competitions
 competitions = [['/142', 'Serie A'], ['/242', 'Serie B'], ['/342', 'Serie C'], ['/542', 'Serie D'], ['/424', 'Copa do Brasil']]
 end_path = 'se.pdf'
 
-with open('errors.csv', 'w', newline = '') as file:
+with open('../errors.csv', 'w', newline = '') as file:
 	writer = csv.writer(file)
 	writer.writerow(['Competição', 'Ano', 'Jogo'])
 	for i in range(13, 21):
@@ -30,7 +30,7 @@ with open('errors.csv', 'w', newline = '') as file:
                                                 game = '0' + str(j + 1)
                                         else:
                                                 game = str(j + 1)
-                                        tabula.convert_into(file, comp[1] + '/20' + str(i) + '/Game ' + game + '.csv', pages = 'all')
+                                        tabula.convert_into(file, '../' + comp[1] + '/20' + str(i) + '/Game ' + game + '.csv', pages = 'all')
                                         time.sleep(0.1)
         			except:
                 			writer.writerow([comp[1], '20' + str(i), game])
