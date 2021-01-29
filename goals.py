@@ -7,7 +7,6 @@ Script to find out which players scored goals (with time) and save to a .csv fil
 folder = 'All data/'
 competitions = ['Serie A', 'Serie B', 'Serie C', 'Serie D', 'Copa do Brasil']
 years = [str(i) for i in range(2013, 2021)]
-create_folders(competitions, years)
 
 for comp in competitions:
     for year in years:
@@ -29,7 +28,8 @@ for comp in competitions:
                     goals = find_goals(file)
 
                     for i in range(1, len(goals)):
-                        all_goals.append([goals[i][0], goals[i][1] + ' - ' + goals[i][2], goals[i][-1] ,'0' * dig + str(game)])
+                        if goals[i][0].isnumeric():
+                            all_goals.append([goals[i][0], goals[i][1] + ' - ' + goals[i][2], goals[i][-1] ,'0' * dig + str(game)])
                 except:
                     pass
             

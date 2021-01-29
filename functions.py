@@ -1,17 +1,4 @@
 import csv
-import os
-
-def create_folders(competitions, years):
-    for competition in competitions:
-        try:
-            os.stat(competition)
-        except:
-            os.mkdir(competition)
-        for year in years:
-            try:
-                os.stat(competition + '/' + year)
-            except:
-                os.mkdir(competition + '/' + year)
 
 def remove_space(string):
     '''
@@ -318,7 +305,7 @@ def find_goals(file):
 
             if begin:
                 try:
-                    int(line[0])
+                    int(line[0][0])
                 except:
                     error += 1
 
@@ -327,7 +314,7 @@ def find_goals(file):
 
                 if cont > 1:
                     for player in players:
-                        if player[3] == line[2] and player[4] == line[-1]:
+                        if player[3] == line[2] and remove_space(line[-1]) in player[4]:
                             goals.append([player[0], line[0], line[1], line[3]])
 
                 cont += 1
