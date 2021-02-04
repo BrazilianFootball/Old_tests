@@ -6,9 +6,10 @@ and save to a .csv file
 '''
 
 competitions = ['Serie A', 'Serie B', 'Serie C', 'Serie D', 'Copa do Brasil']
-years = [str(i) for i in range(2013, 2021)]
+# years = [str(i) for i in range(2013, 2021)]
+years = [str(i) for i in range(2020, 2021)]
 
-with open('../errors_participations.csv', 'w', newline = '') as error_file:
+with open('../errors_participations_2020.csv', 'w', newline = '') as error_file:
     error_writer = csv.writer(error_file)
     error_writer.writerow(['Competição', 'Ano', 'Jogo'])
     for year in years:
