@@ -276,7 +276,7 @@ def find_game_players(file):
                     for player in players:
                         if player[3] == no_in and player[4] == clube:
                             player[1] = time
-                            player[2] = '45 - 2T'
+                            player[2] = '45:00 - 2T'
                             changes.append(player)
 
                     for player in changes:
