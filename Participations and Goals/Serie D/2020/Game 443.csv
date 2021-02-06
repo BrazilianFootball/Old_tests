@@ -21,10 +21,10 @@ CBF,In,Out,Nº,Clube
 304433,00:00 - 1T,10:00 - 2T,10,Aparecidense/GO
 456324,00:00 - 1T,45:00 - 2T,11,Operário/MT
 459068,00:00 - 1T,45:00 - 2T,11,Aparecidense/GO
-176739,INT,45 - 2T,14,Aparecidense/GO
-399100,INT,45 - 2T,13,Operário/MT
-524960,30:00 - 1T,45 - 2T,14,Operário/MT
-500736,10:00 - 2T,45 - 2T,15,Aparecidense/GO
-377521,10:00 - 2T,45 - 2T,17,Aparecidense/GO
-416340,18:00 - 2T,45 - 2T,16,Aparecidense/GO
-523248,31:00 - 2T,45 - 2T,13,Aparecidense/GO
+176739,INT,45:00 - 2T,14,Aparecidense/GO
+399100,INT,45:00 - 2T,13,Operário/MT
+524960,30:00 - 1T,45:00 - 2T,14,Operário/MT
+500736,10:00 - 2T,45:00 - 2T,15,Aparecidense/GO
+377521,10:00 - 2T,45:00 - 2T,17,Aparecidense/GO
+416340,18:00 - 2T,45:00 - 2T,16,Aparecidense/GO
+523248,31:00 - 2T,45:00 - 2T,13,Aparecidense/GO
