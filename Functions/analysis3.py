@@ -354,9 +354,9 @@ def graph(relation, competitions, years, max_clubs):
     G = nx.Graph()
     for club in relation:
         if club[0][0] in img_clubs and club[0][1] > 0:
-            G.add_node(img_clubs.index(club[0][0]), color = 'white', weight = club[0][1], font_color = 'white')
+            G.add_node(img_clubs.index(club[0][0]), color = 'white', weight = club[0][1])
         elif club[0][1] > 0:
-            G.add_node(club[0][0], color = 'steelblue', weight = club[0][1], font_color = 'black')
+            G.add_node(club[0][0], color = 'steelblue', weight = club[0][1])
 
     for club in relation:
         for i in range(1, len(club)):
@@ -393,8 +393,7 @@ def graph(relation, competitions, years, max_clubs):
                      node_color = [nx.get_node_attributes(G, 'color')[g] for g in G.nodes()],
                      edge_color = [nx.get_edge_attributes(G, 'color')[g] for g in G.edges()],
                      node_size = [nx.get_node_attributes(G, 'weight')[g] * 10 for g in G.nodes()],
-                     width = [nx.get_edge_attributes(G, 'width')[g] * 0.5 for g in G.edges],
-                     font_color = [nx.get_edge_attributes(G, 'font_color')[g] * 0.5 for g in G.edges])
+                     width = [nx.get_edge_attributes(G, 'width')[g] * 0.5 for g in G.edges])
 
     print(text)
     trans = ax.transData.transform
