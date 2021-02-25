@@ -395,6 +395,16 @@ def graph(relation, competitions, years, max_clubs):
                      node_size = [nx.get_node_attributes(G, 'weight')[g] * 10 for g in G.nodes()],
                      width = [nx.get_edge_attributes(G, 'width')[g] * 0.5 for g in G.edges])
 
+    labels = {}
+    for g in G.nodes():
+        labels[g] = g
+
+    nx.draw_networkx_labels(G,
+                            pos = pos,
+                            labels = labels,
+                            ax = ax,
+                            font_color = 'white')
+
     print(text)
     trans = ax.transData.transform
     trans2 = fig.transFigure.inverted().transform
