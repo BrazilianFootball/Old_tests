@@ -48,10 +48,10 @@ img_files = {'America/MG': 'Escudos\\americamg_bra.png',
              'Botafogo/SP': 'Escudos\\botafogosp_bra.png',
              'Brasil/RS': 'Escudos\\brasilpelotas_bra.png',
              'CRB/AL': 'Escudos\\crb_bra.png',
-             'Caldense/MG': 'Escudos\\caldense_bra.png',
+             'Caldense/MG': 'Escudos//caldense.png',
              'Campinense/PB': 'Escudos\\campinensepb_bra.png',
              'Caxias/RS': 'Escudos\\caxias.png',
-             'Central/PE': 'Escudos\\central_bra.png',
+             'Central/PE': 'Escudos//centralpe.png',
              'Confianca/SE': 'Escudos\\confianca_se.png',
              'Cuiaba/MT': 'Escudos\\cuiaba_bra.png',
              'Guarani/SP': 'Escudos\\guaranisp_bra.png',
@@ -85,7 +85,6 @@ img_files = {'America/MG': 'Escudos\\americamg_bra.png',
              'Baraunas/RN': 'Escudos\\baraunas.png',
              'Brasiliense/DF': 'Escudos\\brasiliense.png',
              'Brusque/SC': 'Escudos\\brusque.png',
-             'C.r.a.c./GO': 'Escudos\\crac.png',
              'DuquedeCaxias/RJ': 'Escudos\\duque_caxias.png',
              'Ferroviario/CE': 'Escudos\\ferroviario.png',
              'Globo/RN': 'Escudos\\globo.png',
@@ -97,7 +96,181 @@ img_files = {'America/MG': 'Escudos\\americamg_bra.png',
              'Madureira/RJ': 'Escudos\\madureira.png',
              'Manaus/AM': 'Escudos\\manausfc.png',
              'SaoJose/RS': 'Escudos\\saojose_rs.png',
-             'VoltaRedonda/RJ': 'Escudos\\volta.png'}
+             'VoltaRedonda/RJ': 'Escudos\\volta.png',
+             'Afogados/PE': 'Escudos//afogados.png',
+             'AguiaNegra/MS': 'Escudos//aguianegra.png',
+             'Altos/PI': 'Escudos//altos.png',
+             'Aparecidense/GO': 'Escudos//aparecidense.png',
+             'Aquidauanense/MS': 'Escudos//aquidauanense.png',
+             'AtleticodeCajazeiras/PB': 'Escudos//atleticocajazeiras.png',
+             'BahiadeFeira/BA': 'Escudos//bahiafeira.png',
+             'Bangu/RJ': 'Escudos//bangu.png',
+             'Bare/RR': 'Escudos//bare.png',
+             'Bragantino/PA': 'Escudos//bragantinopa.png',
+             'Cabofriense/RJ': 'Escudos//cabofriense.png',
+             'Coruripe/AL': 'Escudos//coruripeal.png',
+             'FastClube/AM': 'Escudos//fastclub.png',
+             'FcCascavel/PR': 'Escudos//cascavel.png',
+             'Ferroviaria/SP': 'Escudos//ferroviariasp.png',
+             'Floresta/CE': 'Escudos//floresta.png',
+             'FreiPaulistano/SE': 'Escudos//freipaulistano.png',
+             'Galvez/AC': 'Escudos//galvez.png',
+             'Gama/DF': 'Escudos//gama.png',
+             'Goianesia/GO': 'Escudos//goianesia.png',
+             'Goiania/GO': 'Escudos//goiania.png',
+             'GuaranideJuazeiro/CE': 'Escudos//guaranijuazeiro.png',
+             'GuaranydeSobral/CE': 'Escudos//guaranysobral.png',
+             'IndependenteTucurui/PA': 'Escudos//independentetucurui.png',
+             'Ipatinga/MG': 'Escudos//ipatinga.png',
+             'Itabaiana/SE': 'Escudos//itabaiana.png',
+             'Jacioba/AL': 'Escudos//jacyoba.png',
+             'Ji-parana/RO': 'Escudos//jiparana.png',
+             'MarcilioDias/SC': 'Escudos//marciliodias.png',
+             'Mirassol/SP': 'Escudos//mirassol.png',
+             'Nacional/AM': 'Escudos//nacionalam.png',
+             'Nacional/PR': 'Escudos//nacionalpr.png',
+             'Novorizontino/SP': 'Escudos//novorizontino.png',
+             'Operario/MT': 'Escudos//operariomt.png',
+             'Palmas/TO': 'Escudos//palmasto.png',
+             'Pelotas/RS': 'Escudos//pelotas.png',
+             'Portuguesa/RJ': 'Escudos//portuguesarj.png',
+             'Potiguar/RN': 'Escudos//potiguar.png',
+             'RealNoroeste/ES': 'Escudos//realnoroeste.png',
+             'SaoLuiz/RS': 'Escudos//saoluizrs.png',
+             'SaoRaimundo/RR': 'Escudos//saoraimundorr.png',
+             'Sinop/MT': 'Escudos//sinopmt.png',
+             'SociedadeEsportivaJuventude/MA': 'Escudos//juventudema.png',
+             'Tocantinopolis/TO': 'Escudos//tocantinopolis.png',
+             'TocantinsEsporteClube/TO': 'Escudos//tocantinsec.png',
+             'Toledo/PR': 'Escudos//toledo.png',
+             'Tupynambas/MG': 'Escudos//tupynambas.png',
+             'UniaodeRondonopolis/MT': 'Escudos//rondonopolis.png',
+             'Vilhena/RO': 'Escudos//vilhena.png',
+             'Vilhenense/RO': 'Escudos//vilhenense.png',
+             'VitoriaF.C./ES': 'Escudos//vitoriaes.png',
+             'VitoriadaConquista/BA': 'Escudos//vitoriaconquista.png',
+             'Ypiranga/AP': 'Escudos//ypirangaap.png',
+             '4deJulho/PI': 'Escudos\\4dejulho.png',
+             '7deSetembro/MS': 'Escudos\\7desetembroms.png',
+             'A.s.s.u./RN': 'Escudos\\assurn.png',
+             'Aimore/RS': 'Escudos\\aimore.png',
+             'Amadense/SE': 'Escudos\\amadense.png',
+             'America/PE': 'Escudos\\americape.png',
+             'Americano/RJ': 'Escudos\\americanorj.png',
+             'Anapolina/GO': 'Escudos\\anapolina.png',
+             'Anapolis/GO': 'Escudos\\anapolis.png',
+             'Aracruz/ES': 'Escudos\\aracruz.png',
+             'Araguaia/MT': 'Escudos\\araguaia.png',
+             'ArapongasEsporteClube/PR': 'Escudos\\arapongas.png',
+             'Araxa/MG': 'Escudos\\araxa.png',
+             'AssociacaoDesportivaItaborai/RJ': 'Escudos\\itaboraifc.png',
+             'Atletico/BA': 'Escudos\\atleticoba.png',
+             'Atletico/ES': 'Escudos\\atleticoes.png',
+             'Atletico/PE': 'Escudos\\atleticope.png',
+             'AtleticoCearense/CE': 'Escudos\\atleticoce.png',
+             'AtleticoPatrocinense/MG': 'Escudos\\patrocinense.png',
+             'AtleticoRoraima/RR': 'Escudos\\atleticorr.png',
+             'Audax/SP': 'Escudos\\audaxsp.png',
+             'Avenida/RS': 'Escudos\\avenida.png',
+             'Barbalha/CE': 'Escudos\\barbalha.png',
+             'Barcelona/RO': 'Escudos\\barcelona.png',
+             'BeloJardim/PE': 'Escudos\\belojardim.png',
+             'Betim/MG': 'Escudos\\betim.png',
+             'Boavista/RJ': 'Escudos\\boavistarj.png',
+             'Brasilia/DF': 'Escudos\\brasilia.png',
+             'Cameta/PA': 'Escudos\\cameta.png',
+             'Capivariano/SP': 'Escudos\\capivariano.png',
+             'Caucaia/CE': 'Escudos\\caucaia.png',
+             'Ceilandia/DF': 'Escudos\\ceilandia.png',
+             'Cene/MS': 'Escudos\\cene.png',
+             'Cianorte/PR': 'Escudos\\cianorte.png',
+             'ColoColo/BA': 'Escudos\\colocoloba.png',
+             'Comercial/MS': 'Escudos\\comercialms.png',
+             'Cordino/MA': 'Escudos\\cordinoma.png',
+             'Corumbaense/MS': 'Escudos\\corumbaense.png',
+             'Crac/GO': 'Escudos\\crac.png',
+             'Desportiva/ES': 'Escudos\\desportiva.png',
+             'DomBosco/MT': 'Escudos\\dombosco.png',
+             'EspiritoSanto/ES': 'Escudos\\espiritosanto.png',
+             'Estanciano/SE': 'Escudos\\estanciano.png',
+             'EstreladoNorte/ES': 'Escudos\\estreladonorte.png',
+             'Flamengo/PE': 'Escudos\\flamengope.png',
+             'Flamengo/PI': 'Escudos\\flamengopi.png',
+             'FluminensedeFeira/BA': 'Escudos\\fludefeira.png',
+             'FozdoIguacu/PR': 'Escudos\\fozdoiguacu.png',
+             'Friburguense/RJ': 'Escudos\\friburguense.png',
+             'Galicia/BA': 'Escudos\\galicia.png',
+             'Gaucho/RS': 'Escudos\\gaucho.png',
+             'Genus/RO': 'Escudos\\genus.png',
+             'Guarani/SC': 'Escudos\\guaranisc.png',
+             'Gurupi/TO': 'Escudos\\gurupi.png',
+             'HercilioLuzFutebolClube/SC': 'Escudos\\hercilioluz.png',
+             'InterdeLages/SC': 'Escudos\\interdelages.png',
+             'InterdeLimeira/SP': 'Escudos\\interdelimeira.png',
+             'Interporto/TO': 'Escudos\\interporto.png',
+             'Ipora/GO': 'Escudos\\ipora.png',
+             'Itapora/MS': 'Escudos\\itapora.png',
+             'Itumbiara/GO': 'Escudos\\itumbiara.png',
+             'Ivinhema/MS': 'Escudos\\ivinhema.png',
+             'J.Malucelli/PR': 'Escudos\\jmalucelli.png',
+             'JacobinaEc/BA': 'Escudos\\jacobina.png',
+             'Lagarto/SE': 'Escudos\\lagarto.png',
+             'Lajeadense/RS': 'Escudos\\lajeadense.png',
+             'Linense/SP': 'Escudos\\linense.png',
+             'Luziania/DF': 'Escudos\\luziania.png',
+             'Macapa/AP': 'Escudos\\macapa.png',
+             'Maranhao/MA': 'Escudos\\maranhao.png',
+             'Maringa/PR': 'Escudos\\maringa.png',
+             'Metropolitano/SC': 'Escudos\\metropolitano.png',
+             'Mixto/MT': 'Escudos\\mixto.png',
+             'Murici/AL': 'Escudos\\murici.png',
+             'Nautico/RR': 'Escudos\\nauticorr.png',
+             'Naviraiense/MS': 'Escudos\\naviraiense.png',
+             'Noroeste/SP': 'Escudos\\noroeste.png',
+             'NovaIguacu/RJ': 'Escudos\\novaiguacu.png',
+             'Novo/MS': 'Escudos\\novo.png',
+             'NovoHamburgo/RS': 'Escudos\\novohamburgo.png',
+             'Operario/MS': 'Escudos\\operario.png',
+             'Oratorio/AP': 'Escudos\\oratorio.png',
+             'Paragominas/PA': 'Escudos\\paragominas.png',
+             'Parauapebas/PA': 'Escudos\\parauapebas.png',
+             'Parnahyba/PI': 'Escudos\\parnahyba.png',
+             'Penapolense/SP': 'Escudos\\penapolense.png',
+             'Piaui/PI': 'Escudos\\piaui.png',
+             'PlacidodeCastro/AC': 'Escudos\\placidodecastro.png',
+             'Porto/PE': 'Escudos\\portope.png',
+             'PrincesadoSolimoes/AM': 'Escudos\\princesadosolimoes.png',
+             'Prudentopolis/PR': 'Escudos\\prudentopolis.png',
+             'Pstc/PR': 'Escudos\\pstc.png',
+             'RealDesportivo/RO': 'Escudos\\realdesportivo.png',
+             'RedBullBrasil/SP': 'Escudos\\redbullbrasil.png',
+             'Resende/RJ': 'Escudos\\resende.png',
+             'RioBranco/ES': 'Escudos\\riobrancoes.png',
+             'Rondoniense/RO': 'Escudos\\rondoniense.png',
+             'S.francisco/PA': 'Escudos\\sfranciscopa.png',
+             'SantaCruz/RN': 'Escudos\\santacruzrn.png',
+             'SantaRita/AL': 'Escudos\\santaritaal.png',
+             'SantoAndre/SP': 'Escudos\\santoandresp.png',
+             'SaoBernardo/SP': 'Escudos\\saobernardosp.png',
+             'SaoPaulo/RS': 'Escudos\\saopaulors.png',
+             'SaoRaimundo/PA': 'Escudos\\saoraimundopa.png',
+             'Sergipe/SE': 'Escudos\\sergipe.png',
+             'Serra/ES': 'Escudos\\serra.png',
+             'SerraTalhada/PE': 'Escudos\\serratalhada.png',
+             'Serrano/BA': 'Escudos\\serranoba.png',
+             'Serrano/PB': 'Escudos\\serranopb.png',
+             'Sobradinho/DF': 'Escudos\\sobradinho.png',
+             'Sousa/PB': 'Escudos\\sousa.png',
+             'Sparta/TO': 'Escudos\\sparta.png',
+             'Tiradentes/CE': 'Escudos\\tiradentes.png',
+             'Trem/AP': 'Escudos\\trem.png',
+             'Uberlandia/MG': 'Escudos\\uberlandia.png',
+             'Urt/MG': 'Escudos\\urt.png',
+             'Veranopolis/RS': 'Escudos\\veranopolis.png',
+             'Vitoria/PE': 'Escudos\\vitoriape.png',
+             'Votuporanguense/SP': 'Escudos\\votuporangense.png',
+             'XvdePiracicaba/SP': 'Escudos\\xvdepiracicaba.png',
+             'Ypiranga/PE': 'Escudos\\ypirangape.png'}
 
 def change(string, old_char, new_char):
     new_string = ''
@@ -155,20 +328,30 @@ def replace(string):
         new_string = 'Ceara/CE'
     elif new_string == 'Chapecoense/':
         new_string = 'Chapecoense/SC'
+    elif new_string == 'Crac/GO':
+        new_string = 'Chapecoense/SC'
     elif new_string == 'FIGUEIRENSE/SC' or new_string == 'Figueirense/':
         new_string = 'Figueirense/SC'
     elif new_string == 'FORTALEZA/CE':
         new_string = 'Fortaleza/CE'
-    elif new_string == 'INDEPENDENTE/PA':
-        new_string = 'Independente/PA'
+    elif new_string == 'Guarany/CE':
+        new_string = 'GuaranydeSobral/CE'
+    elif new_string == 'Guarani/CE':
+        new_string = 'GuaranideJuazeiro/CE'
+    elif new_string == 'INDEPENDENTE/PA' or new_string == 'Independente/PA':
+        new_string = 'IndependenteTucurui/PA'
     elif new_string == 'Icasa/':
         new_string = 'Icasa/CE'
+    elif new_string == 'Internacional/SC':
+        new_string = 'InterdeLages/SC'
     elif new_string == 'Joinville/':
         new_string = 'Joinville/SC'
     elif new_string == 'MURICI/AL' or new_string == 'MURICIFUTEBOLCLUBE/AL':
         new_string = 'Murici/AL'
     elif new_string == 'MaringaFutebolClube/PR':
         new_string = 'Maringa/PR'
+    elif new_string == 'Novoperario/MS':
+        new_string = 'Novo/MS'
     elif new_string == 'Oeste/':
         new_string = 'Oeste/SP'
     elif new_string == 'PIAUÍ/PI':
@@ -207,6 +390,10 @@ def replace(string):
         new_string = 'AguiaNegra/MS'
     elif new_string == 'ÁguiadeMaraba/PA' or new_string == 'AguiadeMaraba/PA' or new_string == 'Águia/PA':
         new_string = 'Aguia/PA'
+    elif new_string == 'Uniao/MT':
+        new_string = 'UniaodeRondonopolis/MT'
+    elif new_string == 'Uniclinic/CE':
+        new_string = 'AtleticoCearense/CE'
     
     return new_string
 
