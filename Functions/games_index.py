@@ -5,7 +5,7 @@ Script to create a .csv file with games index (ID game, home, away)
 '''
 
 folder = '../All data/'
-competitions = ['Serie A', 'Serie B', 'Serie C', 'Serie D', 'Copa do Brasil']
+competitions = ['Serie A']#, 'Serie B', 'Serie C', 'Serie D', 'Copa do Brasil']
 # years = ['2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020']
 years = ['2020']
 all_players = []

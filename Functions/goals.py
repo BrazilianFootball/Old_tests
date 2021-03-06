@@ -5,7 +5,7 @@ Script to find out which players scored goals (with time) and save to a .csv fil
 '''
 
 folder = '../All data/'
-competitions = ['Serie A', 'Serie B', 'Serie C', 'Serie D', 'Copa do Brasil']
+competitions = ['Serie A']#, 'Serie B', 'Serie C', 'Serie D', 'Copa do Brasil']
 # years = [str(i) for i in range(2013, 2021)]
 years = [str(i) for i in range(2020, 2021)]
 
