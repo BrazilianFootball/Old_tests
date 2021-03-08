@@ -5,7 +5,7 @@ Script to create a .csv file with games index (ID game, home, away)
 '''
 
 folder = '../All data/'
-competitions = ['Serie A']#, 'Serie B', 'Serie C', 'Serie D', 'Copa do Brasil']
+competitions = ['Copa do Brasil']#['Serie A', 'Serie B', 'Serie C', 'Serie D', 'Copa do Brasil']
 # years = ['2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020']
 years = ['2020']
 all_players = []
@@ -16,7 +16,8 @@ for comp in competitions:
         with open('../Participations and Goals/' + comp + '/' + year + '/Index.csv', 'w', newline = '') as file:
             writer = csv.writer(file)
             writer.writerow(['Game', 'Home', 'Away'])
-            for game in range(1, 601):
+            # for game in range(1, 601):
+            for game in range(119, 121):
                 try:
                     if game < 10:
                         file = folder + comp + '/' + year + '/Game 00' + str(game) + '.csv'
