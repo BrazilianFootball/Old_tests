@@ -524,7 +524,21 @@ def find_competitions(competitions):
                 comp += ', {}'.format(competitions[i])
         return comp
 
-def graph(relation, competitions, years, max_clubs):
+def graph(relation, competitions, years, max_clubs, save = False):
+    file_name = ''
+    for competition in competitions:
+        if competition == 'Copa do Brasil':
+            file_name += 'CdB'
+        else:
+            file_name += 'S' + competition[-1]
+            
+    if len(years) == 1:
+        file_name += '_' + str(years[0])
+    else:
+        file_name += '_' + str(years[0])[-2:] + '_to_' + str(years[-1])[-2:]
+
+    file_name += '_with_' + str(max_clubs) + 'clubs.png'
+    
     period = find_period(years)
     competitions = find_competitions(competitions)
     
@@ -614,7 +628,7 @@ def graph(relation, competitions, years, max_clubs):
             img = mpimg.imread(img_files[club])
             weight = nx.get_node_attributes(G, 'weight')[g]
             # option A (great)
-            imsize = (weight - w_min)/dif * 0.04 + 0.02
+            # imsize = (weight - w_min)/dif * 0.04 + 0.02
             # option B (reasonable)
             imsize = weight/w_max * 0.05
             # option C (terrible)
@@ -631,6 +645,11 @@ def graph(relation, competitions, years, max_clubs):
             new += 1
 
     nx.relabel_nodes(G, relabel, copy = False)
-                
-    plt.show()
+    
+    if save:
+        plt.savefig('Images//' + file_name)
+        print('Graph saved as', file_name)
+    else:
+        plt.show()
+        
     return G, pos, ax, fig
