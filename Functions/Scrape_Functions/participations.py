@@ -9,7 +9,7 @@ competitions = ['Copa do Brasil']#['Serie A', 'Serie B', 'Serie C', 'Serie D', '
 # years = [str(i) for i in range(2013, 2021)]
 years = [str(i) for i in range(2020, 2021)]
 
-with open('../errors_participations.csv', 'w', newline = '') as error_file:
+with open('../../errors_participations.csv', 'w', newline = '') as error_file:
     error_writer = csv.writer(error_file)
     error_writer.writerow(['Competição', 'Ano', 'Jogo'])
     for year in years:
@@ -19,8 +19,8 @@ with open('../errors_participations.csv', 'w', newline = '') as error_file:
                 print(year, game)
             for comp in competitions:
                 try:
-                    file = '../All data/' + comp + '/' + year + '/Game '
-                    path = '../Participations and Goals/' + comp + '/' + year + '/Game '
+                    file = '../../All data/' + comp + '/' + year + '/Game '
+                    path = '../../Participations and Goals/' + comp + '/' + year + '/Game '
                     if game < 10:
                         file += '00' + str(game) + '.csv'
                         path += '00' + str(game) + '.csv'

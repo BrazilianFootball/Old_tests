@@ -4,14 +4,14 @@ from functions import *
 Script to find out which players scored goals (with time) and save to a .csv file with all goals of all games of one season
 '''
 
-folder = '../All data/'
+folder = '../../All data/'
 competitions = ['Copa do Brasil']#['Serie A', 'Serie B', 'Serie C', 'Serie D', 'Copa do Brasil']
 # years = [str(i) for i in range(2013, 2021)]
 years = [str(i) for i in range(2020, 2021)]
 
 for comp in competitions:
     for year in years:
-        path = '../Participations and Goals/' + comp + '/' + year + '/'
+        path = '../../Participations and Goals/' + comp + '/' + year + '/'
         with open(path + 'goals.csv', 'w', newline = '') as file:
             all_goals = [['CBF', 'Time', 'Type', 'Game']]
             writer = csv.writer(file)

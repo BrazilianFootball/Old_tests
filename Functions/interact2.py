@@ -35,7 +35,8 @@ def visu1():
         years = [i for i in range(years[0], years[1] + 1)] 
         list_of_clubs = find_clubs(competitions, years)
         relation = relations_list_of_clubs(list_of_clubs, players)
-        relation.sort(reverse = True, key = lambda x : x[0][1])
+        # relation.sort(reverse = True, key = lambda x : x[0][1])
+        relation.sort(reverse = True, key = lambda x : x[0][0])
         if max_clubs < len(relation):
             relation = relation[0:max_clubs]
         else:

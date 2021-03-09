@@ -574,7 +574,7 @@ def graph(relation, competitions, years, max_clubs, save = False):
                 G.add_edge(team_A, team_B, color = 'lightskyblue', width = club[i][1])
 
     fig, ax = plt.subplots(figsize = (20, 20))
-    pos = nx.spring_layout(G, scale = 1)
+    pos = nx.spring_layout(G, scale = max_clubs)
     nx.draw_networkx_edge_labels(G,
                                  pos,
                                  edge_labels = nx.get_edge_attributes(G, 'relation'),

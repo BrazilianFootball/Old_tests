@@ -4,7 +4,7 @@ from functions import *
 Script to create a .csv file with games index (ID game, home, away)
 '''
 
-folder = '../All data/'
+folder = '../../All data/'
 competitions = ['Copa do Brasil']#['Serie A', 'Serie B', 'Serie C', 'Serie D', 'Copa do Brasil']
 # years = ['2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020']
 years = ['2020']
@@ -13,7 +13,7 @@ all_players = []
 for comp in competitions:
     for year in years:
         print(comp, year)
-        with open('../Participations and Goals/' + comp + '/' + year + '/Index.csv', 'w', newline = '') as file:
+        with open('../../Participations and Goals/' + comp + '/' + year + '/Index.csv', 'w', newline = '') as file:
             writer = csv.writer(file)
             writer.writerow(['Game', 'Home', 'Away'])
             # for game in range(1, 601):
