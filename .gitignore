@@ -1,8 +1,5 @@
-Functions/__pycache__/
-Functions/Scrape_Functions/__pycache__/
-.ipynb_checkpoints/
-Escudos - Brasfoot/
-Escudos - Serie A/
-Escudos - old/
-Testes.ipynb
-Serie A-B 2021 - generate video - with tests.ipynb
+Scrape_and_some_views/Functions/__pycache__/
+Scrape_and_some_views/Functions/Scrape_Functions/__pycache__/
+Scrape_and_some_views/.ipynb_checkpoints/
+Scrape_and_some_views/Testes.ipynb
+Scrape_and_some_views/Serie A-B 2021 - generate video - with tests.ipynb
