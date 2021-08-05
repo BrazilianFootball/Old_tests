@@ -1,6 +1,6 @@
-Campeonato:,Campeonato Brasileiro - Série A/2020,,Rodada:,35
-Jogo:,Botafogo / RJ X Grêmio / RS,,,
-Data:,08/02/2021 Horário: 20:00 Estádio:,Nilton Santos / Rio de Janeiro,,
+Campeonato:,Campeonato Brasileiro - SÃ©rie A/2020,,Rodada:,35
+Jogo:,Botafogo / RJ X GrÃªmio / RS,,,
+Data:,08/02/2021 HorÃ¡rio: 20:00 EstÃ¡dio:,Nilton Santos / Rio de Janeiro,,
 "",,Arbitragem
 Arbitro:,Rodrigo Dalonso Ferreira (AB / SC),
 Arbitro Assistente 1:,Henrique Neu Ribeiro (AB / SC),
@@ -13,13 +13,13 @@ AVAR1:,Diego Pombo Lopez (AB / BA),
 AVAR2:,Clovis Amaral da Silva (AB / PE),
 "",,,Cronologia,,,
 "",1o Tempo,,2o Tempo,,,
-Entrada do mandante:,19:55Atraso:,,Não Houve Entrada do mandante: 21:00,,Atraso:,Não Houve
-Entrada do visitante:,19:56Atraso:,,Não Houve Entrada do visitante: 21:00,,Atraso:,Não Houve
-Início 1o Tempo:,20:00Atraso:,,Não Houve Início do 2o Tempo: 21:02,,Atraso:,Não Houve
-Término do 1o Tempo:,20:47Acréscimo:,,2 min Término do 2o Tempo: 21:50,Acréscimo:,,3 min
+Entrada do mandante:,19:55Atraso:,,NÃ£o Houve Entrada do mandante: 21:00,,Atraso:,NÃ£o Houve
+Entrada do visitante:,19:56Atraso:,,NÃ£o Houve Entrada do visitante: 21:00,,Atraso:,NÃ£o Houve
+InÃ­cio 1o Tempo:,20:00Atraso:,,NÃ£o Houve InÃ­cio do 2o Tempo: 21:02,,Atraso:,NÃ£o Houve
+TÃ©rmino do 1o Tempo:,20:47AcrÃ©scimo:,,2 min TÃ©rmino do 2o Tempo: 21:50,AcrÃ©scimo:,,3 min
 Resultado do 1o Tempo: 0 X 2,,,Resultado Final: 2 X 5,,,
-"",,,,,Relação de Jogadores,,,,
-"",,Botafogo / RJ,,,,Grêmio / RS,,,
+"",,,,,RelaÃ§Ã£o de Jogadores,,,,
+"",,Botafogo / RJ,,,,GrÃªmio / RS,,,
 No,Apelido,Nome Completo,T/R,P/A,CBF No Apelido,Nome Completo T/R,,P/A,CBF
 29,Diego,Diego Terra Loureiro,T(g),P,437115 1 Paulo Victor,Paulo Victor Mileo V ... T(g),,P,175411
 2,Kevin,Kevin Peterson dos S ...,T,P,502001 7 Matheus He ...,Matheus Henrique de SouzaT,,P,407776
@@ -28,14 +28,14 @@ No,Apelido,Nome Completo,T/R,P/A,CBF No Apelido,Nome Completo T/R,,P/A,CBF
 19,Caio,Caio Alexandre Sousa ...,T,P,336119 12 Cortez,Bruno Cortes Barbosa T,,P,180546
 21,Romildo,Romildo Del Piage de ...,T,P,544673 14 David Braz,David Braz de Olivei ... T,,P,168008
 30,David Sousa,David Sousa Albino,T,P,567849 19 Churin,Diego Churin T,,P,705188
-31,Hugo,Hugo Gonçalves Ferre ...,T,P,520940 23 Alisson,Alisson Euler de Fre ... T,,P,317751
+31,Hugo,Hugo GonÃ§alves Ferre ...,T,P,520940 23 Alisson,Alisson Euler de Fre ... T,,P,317751
 34,Cesar,Cesar Coelho Campos  ...,T,P,524246 25 Pepe,Eduardo Gabriel Aqui ... T,,P,428672
 39,Matheus Na ...,Matheus Nascimento d ...,T,P,612641 28 P. Miranda,Jonathan Doin T,,P,291380
-50,Welison,José Welison da Silva,T,P,313780 35 Vanderson,Vanderson de Oliveir ... T,,P,612628
+50,Welison,JosÃ© Welison da Silva,T,P,313780 35 Vanderson,Vanderson de Oliveir ... T,,P,612628
 40,Saulo,Saulo Ferreira Silva,R(g),P,345455 22 Julio Cesar,Julio Cesar Jacobi R(g),,P,169978
 8,Kalou,Salomon Armand Maglo ...,R,P,700591 15 Darlan,Darlan Pereira Mendes R,,P,422352
 11,Macae,Matheus Barcelos da Silva,R,P,405543 16 Lucas Silva,Lucas Silva Borges R,,P,320111
-14,Marcelo,Marcelo da Conceiçao ...,R,P,402719 20 Thaciano,Thaciano Mickael da Silva R,,P,391953
+14,Marcelo,Marcelo da ConceiÃ§ao ...,R,P,402719 20 Thaciano,Thaciano Mickael da Silva R,,P,391953
 20,Alexander  ...,Alexander Lecaros Aragon,R,P,693058 32 Diogo,Diogo Barbosa Mendanha R,,P,339876
 23,Otavio,Luiz Otavio Alves Ma ...,R,P,374917 34 Lucas Araujo,Lucas Araujo de Oliveira R,,P,434877
 25,Warley,Warley Leandro da Silva,R,P,581767 38 Rodrigues,Antonio Josenildo Ro ... R,,P,434738
@@ -52,14 +52,14 @@ No,Apelido,Nome Completo,T/R,P/A,CBF,No,Apelido,Nome Completo T/R,,P/A,CBF
 19,Caio,Caio Alexandre Sousa ...,T,P,336119,12,Cortez,Bruno Cortes Barbosa T,,P,180546
 21,Romildo,Romildo Del Piage de ...,T,P,544673,14,David Braz,David Braz de Olivei ... T,,P,168008
 30,David Sousa,David Sousa Albino,T,P,567849,19,Churin,Diego Churin T,,P,705188
-31,Hugo,Hugo Gonçalves Ferre ...,T,P,520940,23,Alisson,Alisson Euler de Fre ... T,,P,317751
+31,Hugo,Hugo GonÃ§alves Ferre ...,T,P,520940,23,Alisson,Alisson Euler de Fre ... T,,P,317751
 34,Cesar,Cesar Coelho Campos  ...,T,P,524246,25,Pepe,Eduardo Gabriel Aqui ... T,,P,428672
 39,Matheus Na ...,Matheus Nascimento d ...,T,P,612641,28,P. Miranda,Jonathan Doin T,,P,291380
-50,Welison,José Welison da Silva,T,P,313780,35,Vanderson,Vanderson de Oliveir ... T,,P,612628
+50,Welison,JosÃ© Welison da Silva,T,P,313780,35,Vanderson,Vanderson de Oliveir ... T,,P,612628
 40,Saulo,Saulo Ferreira Silva,R(g),P,345455,22,Julio Cesar,Julio Cesar Jacobi R(g),,P,169978
 8,Kalou,Salomon Armand Maglo ...,R,P,700591,15,Darlan,Darlan Pereira Mendes R,,P,422352
 11,Macae,Matheus Barcelos da Silva,R,P,405543,16,Lucas Silva,Lucas Silva Borges R,,P,320111
-14,Marcelo,Marcelo da Conceiçao ...,R,P,402719,20,Thaciano,Thaciano Mickael da Silva R,,P,391953
+14,Marcelo,Marcelo da ConceiÃ§ao ...,R,P,402719,20,Thaciano,Thaciano Mickael da Silva R,,P,391953
 20,Alexander  ...,Alexander Lecaros Aragon,R,P,693058,32,Diogo,Diogo Barbosa Mendanha R,,P,339876
 23,Otavio,Luiz Otavio Alves Ma ...,R,P,374917,34,Lucas Araujo,Lucas Araujo de Oliveira R,,P,434877
 25,Warley,Warley Leandro da Silva,R,P,581767,38,Rodrigues,Antonio Josenildo Ro ... R,,P,434738
@@ -68,32 +68,32 @@ No,Apelido,Nome Completo,T/R,P/A,CBF,No,Apelido,Nome Completo T/R,,P/A,CBF
 36,Enio,Sebastiao Enio Santo ...,R,P,567979,46,Isaque,Isaque Elias Brito R,,P,354923
 38,Federico B ...,Federico Ricardo Bar ...,R,P,692836,47,Ferreira,Aldemir dos Santos F ... R,,P,505058
 49,Kayque,Kayque Luiz Pereira,R,P,510342,,,,,,
-"",,Comissão Técnica,
-"",Botafogo / RJ,,Grêmio / RS
-Técnico:,Ricardo Alves Resende,Técnico:,Renato Portaluppi
-Auxiliar Técnico:,Lucio Flavio Dos Santos,Auxiliar Técnico:,Alexandre Pereira Mendes
-Médico:,Caio Senise Drolshagen,Médico:,Paulo Augusto Da Silva Rabaldo
+"",,ComissÃ£o TÃ©cnica,
+"",Botafogo / RJ,,GrÃªmio / RS
+TÃ©cnico:,Ricardo Alves Resende,TÃ©cnico:,Renato Portaluppi
+Auxiliar TÃ©cnico:,Lucio Flavio Dos Santos,Auxiliar TÃ©cnico:,Alexandre Pereira Mendes
+MÃ©dico:,Caio Senise Drolshagen,MÃ©dico:,Paulo Augusto Da Silva Rabaldo
 Treinador De Goleiros:,Flavio De Britto Pereira Tenius,Treinador De Goleiros:,Mauri Costa Lima
-Preparador Físico:,Lucas Ometto Bezerra,Preparador Físico:,Marcio Meira De Vasconcelos
+Preparador FÃ­sico:,Lucas Ometto Bezerra,Preparador FÃ­sico:,Marcio Meira De Vasconcelos
 Massagista:,Reginaldo De Oliveira,Massagista:,Lucas Silva Da Cruz
 "",,,,,Gols,
 Tempo,1T/2T,No,Tipo,Nome do Jogador,,Equipe
-06:00,1T,23,NR,Alisson Euler de Freitas Castro,,Grêmio/RS
-16:00,1T,10,FT,Jean Pyerre Casagrande Silveira Correa,,Grêmio/RS
-08:00,2T,19,PN,Diego Churin,,Grêmio/RS
+06:00,1T,23,NR,Alisson Euler de Freitas Castro,,GrÃªmio/RS
+16:00,1T,10,FT,Jean Pyerre Casagrande Silveira Correa,,GrÃªmio/RS
+08:00,2T,19,PN,Diego Churin,,GrÃªmio/RS
 10:00,2T,18,NR,Rafael Navarro Leal,,Botafogo/RJ
-28:00,2T,7,NR,Matheus Henrique de Souza,,Grêmio/RS
-33:00,2T,7,NR,Matheus Henrique de Souza,,Grêmio/RS
+28:00,2T,7,NR,Matheus Henrique de Souza,,GrÃªmio/RS
+33:00,2T,7,NR,Matheus Henrique de Souza,,GrÃªmio/RS
 36:00,2T,11,NR,Matheus Barcelos da Silva,,Botafogo/RJ
-"",,,,Substituições,
+"",,,,SubstituiÃ§Ãµes,
 Tempo,1T/2T,,Equipe,Entrou,Saiu
-45:00,INT,Botafogo/RJ,,49 - Kayque Luiz Pereira,50 - José Welison da Silva
-11:00,2T,Grêmio/RS,,16 - Lucas Silva Borges,8 - Maicon Thiago Pereira de Souza
+45:00,INT,Botafogo/RJ,,49 - Kayque Luiz Pereira,50 - JosÃ© Welison da Silva
+11:00,2T,GrÃªmio/RS,,16 - Lucas Silva Borges,8 - Maicon Thiago Pereira de Souza
 14:00,2T,Botafogo/RJ,,11 - Matheus Barcelos da Silva,21 - Romildo Del Piage de Souza
 23:00,2T,Botafogo/RJ,,20 - Alexander Lecaros Aragon,18 - Rafael Navarro Leal
-25:00,2T,Grêmio/RS,,46 - Isaque Elias Brito,35 - Vanderson de Oliveira Campos
-25:00,2T,Grêmio/RS,,47 - Aldemir dos Santos Ferreira,19 - Diego Churin
-34:00,2T,Grêmio/RS,,38 - Antonio Josenildo Rodrigues ...,23 - Alisson Euler de Freitas Cas...
-34:00,2T,Grêmio/RS,,20 - Thaciano Mickael da Silva,7 - Matheus Henrique de Souza
-38:00,2T,Botafogo/RJ,,14 - Marcelo da Conceiçao Beneven...,31 - Hugo Gonçalves Ferreira Neto
+25:00,2T,GrÃªmio/RS,,46 - Isaque Elias Brito,35 - Vanderson de Oliveira Campos
+25:00,2T,GrÃªmio/RS,,47 - Aldemir dos Santos Ferreira,19 - Diego Churin
+34:00,2T,GrÃªmio/RS,,38 - Antonio Josenildo Rodrigues ...,23 - Alisson Euler de Freitas Cas...
+34:00,2T,GrÃªmio/RS,,20 - Thaciano Mickael da Silva,7 - Matheus Henrique de Souza
+38:00,2T,Botafogo/RJ,,14 - Marcelo da ConceiÃ§ao Beneven...,31 - Hugo GonÃ§alves Ferreira Neto
 38:00,2T,Botafogo/RJ,,25 - Warley Leandro da Silva,34 - Cesar Coelho Campos Junior

@@ -1,6 +1,6 @@
-Campeonato:,Campeonato Brasileiro - Série D/2020,,Rodada:,Volta
+Campeonato:,Campeonato Brasileiro - SÃ©rie D/2020,,Rodada:,Volta
 Jogo:,Itabaiana / SE X Potiguar / RN,,,
-Data:,18/10/2020 Horário: 16:00 Estádio:,Etelvino Mendonça / Itabaiana,,
+Data:,18/10/2020 HorÃ¡rio: 16:00 EstÃ¡dio:,Etelvino MendonÃ§a / Itabaiana,,
 "",,Arbitragem
 Arbitro:,Celio Amorim (CD / SC),
 Arbitro Assistente 1:,Renner Lisboa dos Santos (CD / SE),
@@ -9,12 +9,12 @@ Quarto Arbitro:,Marcel Phillipe Santos Martins (CD / SE),
 Analista de Campo:,Ivaney Alves de Lima (CBF / SE),
 "",,,Cronologia,,,
 "",1o Tempo,,2o Tempo,,,
-Entrada do mandante:,15:50Atraso:,,Não Houve Entrada do mandante: 17:02,,Atraso:,Não Houve
-Entrada do visitante:,15:50Atraso:,,Não Houve Entrada do visitante: 17:02,,Atraso:,Não Houve
-Início 1o Tempo:,16:00Atraso:,,Não Houve Início do 2o Tempo: 17:05,,Atraso:,Não Houve
-Término do 1o Tempo:,16:50Acréscimo:,,5 min Término do 2o Tempo: 17:54,Acréscimo:,,4 min
+Entrada do mandante:,15:50Atraso:,,NÃ£o Houve Entrada do mandante: 17:02,,Atraso:,NÃ£o Houve
+Entrada do visitante:,15:50Atraso:,,NÃ£o Houve Entrada do visitante: 17:02,,Atraso:,NÃ£o Houve
+InÃ­cio 1o Tempo:,16:00Atraso:,,NÃ£o Houve InÃ­cio do 2o Tempo: 17:05,,Atraso:,NÃ£o Houve
+TÃ©rmino do 1o Tempo:,16:50AcrÃ©scimo:,,5 min TÃ©rmino do 2o Tempo: 17:54,AcrÃ©scimo:,,4 min
 Resultado do 1o Tempo: 2 X 0,,,Resultado Final: 4 X 1,,,
-"",,,,,Relação de Jogadores,,,,
+"",,,,,RelaÃ§Ã£o de Jogadores,,,,
 "",,Itabaiana / SE,,,,Potiguar / RN,,,
 No,Apelido,Nome Completo T/R,,P/A,CBF No Apelido,Nome Completo,T/R,P/A,CBF
 1,Andrezon,Andrezon dos Santos T(g),,P,360351 1 Severino,Severino Ferreira de ...,T(g),P,158653
@@ -30,7 +30,7 @@ No,Apelido,Nome Completo T/R,,P/A,CBF No Apelido,Nome Completo,T/R,P/A,CBF
 11,Ila,Willians Ferreira da ...,T,P,167918 11 Raul,Raul de Oliveira Romualdo,T,P,545380
 22,Bruno,Bruno Mateus Ramos d ... R(g),,P,316426 12 Arthur,Arthur Silva Bruno,R(g),P,376207
 12,Crismerio,Crismerio Teixeira d ...,R,P,306360 13 Mikael,Mikael Limeira Luiz,R,P,536474
-13,Geovani,Geovani Santos Sandes,R,P,564097 14 Dão,Dannyu Francisco dos ...,R,P,160610
+13,Geovani,Geovani Santos Sandes,R,P,564097 14 DÃ£o,Dannyu Francisco dos ...,R,P,160610
 14,Jan,Jan Pieter Broman,R,P,527678 15 Samuel,Samuel Franca Jo,R,P,428311
 15,Batata,Geovanio Santos de O ...,R,P,341263 16 Histone,Histone da Silva Sousa,R,P,441107
 16,Koffi,Prosper Costa Koffi,R,P,366270 17 ALYSON,Allyson do Nasciment ...,R,P,543186
@@ -40,13 +40,13 @@ No,Apelido,Nome Completo T/R,,P/A,CBF No Apelido,Nome Completo,T/R,P/A,CBF
 20,Fagner,Fagner da Costa Oliveira,R,P,186326 21 Ze Paulo,Jose Paulo dos Santos,R,P,169694
 21,Pedro Henr ...,Pedro Henrique dos Santos,R,P,545875,,,,
 23,Thiago,Thiago Fagundes da S ...,R,P,536267,,,,
-"",,Comissão Técnica,
+"",,ComissÃ£o TÃ©cnica,
 "",Itabaiana / SE,,Potiguar / RN
-Técnico:,Jaelson Marcelino Alves,Técnico:,Joao Paulo Vitoriano De Oliveira
-Auxiliar Técnico:,Jose Ferreira Dos Santos,Médico:,Renackson Jordelino Garrido
-Médico:,Washington Luiz Santos Batista Junior,Treinador De Goleiros:,Benedito Fernandes Candido
-Treinador De Goleiros:,Andre Godoi Da Silva,Preparador Físico:,Francisco Alisson Dos Santos Herculano
-Preparador Físico:,Thiers Fonseca De Jesus,Massagista:,Rodson Mendes Pereira
+TÃ©cnico:,Jaelson Marcelino Alves,TÃ©cnico:,Joao Paulo Vitoriano De Oliveira
+Auxiliar TÃ©cnico:,Jose Ferreira Dos Santos,MÃ©dico:,Renackson Jordelino Garrido
+MÃ©dico:,Washington Luiz Santos Batista Junior,Treinador De Goleiros:,Benedito Fernandes Candido
+Treinador De Goleiros:,Andre Godoi Da Silva,Preparador FÃ­sico:,Francisco Alisson Dos Santos Herculano
+Preparador FÃ­sico:,Thiers Fonseca De Jesus,Massagista:,Rodson Mendes Pereira
 Massagista:,George De Jesus,,
 "",,,,,Gols,
 Tempo,1T/2T,No,Tipo,Nome do Jogador,,Equipe
@@ -55,27 +55,19 @@ Tempo,1T/2T,No,Tipo,Nome do Jogador,,Equipe
 02:00,2T,8,NR,Wilian Moreira da Silva Marcilio,,Itabaiana/SE
 15:00,2T,10,NR,Joao Emanoel Ferreira Souza,,Itabaiana/SE
 32:00,2T,17,NR,Allyson do Nascimento Honorio,,Potiguar/RN
-"",,,,Cartões Amarelos
+"",,,,CartÃµes Amarelos
 Tempo,1T/2T,No,Nome do Jogador,Equipe
 39:00,1T,12,Crismerio Teixeira de Araujo,Itabaiana/SE
-"",,,Motivo: A2.  Desaprovar com palavras ou gestos as decisões da arbitragem  - Desaprovar com palavras e gestos as decisões da,
+"",,,Motivo: A2.  Desaprovar com palavras ou gestos as decisÃµes da arbitragem  - Desaprovar com palavras e gestos as decisÃµes da,
 "",,,arbitragem.,
-"",,,,Cartões Vermelhos
-Tempo 1T/2T,No,,Nome do Jogador,
-31:00 2T,9,,Thiago de Jesus Santos - Itabaiana/SE,
-Cartão Vermelho Direto,,,Motivo: V2.5.  Golpear ou tentar golpear um adversário com uso de força excessiva fora da disputa da bola  - Aos 31 minutos do,
-"",,,segundo tempo expulsei de forma direta e fora da disputa da bola o senhor thiago de jesus santos numero 09 da equipe associação,
-"",,,"olímpica de itabaiana por empurrar o rosto do seu adversário de forma agressiva o senhor francisco hudson nunes da silva, numero 08",
-"",,,"da equipe do associação cultural e desportiva potiguar, fora da disputa da bola. o atleta expulso deixou o campo de jogo sem maiores",
-"",,,problemas.,
-"Ocorrências / ObservaçõesNada houve de anormal.Motivo de atraso no início e/ou reinício, e de acréscimos:Foram dado acréscimos devido a substituições, atendimento medico e parada para resfriamento.foi dado 1 minuto de silencio em respeito as vitimas do covid 19.Observações EventuaisNada houve de anormal.Relatório do AssistenteNada a relatar.SubstituiçõesTempo1T/2TEquipeEntrouSaiu11:002TPotiguar/RN18 - Dorgival da Silva Nascimento9 - Anderson Soares Santana11:002TPotiguar/RN19 - Andre Oliveira de Lima Costa11 - Raul de Oliveira Romualdo18:002TItabaiana/SE15 - Geovanio Santos de Oliveira11 - Willians Ferreira da Silva18:002TItabaiana/SE14 - Jan Pieter Broman3 - Diego Andrade Silva Bispo18:002TItabaiana/SE17 - Alex Sandre Assis de Souza J...10 - Joao Emanoel Ferreira Souza20:002TPotiguar/RN17 - Allyson do Nascimento Honorio7 - Alyson Romeu Dantas de Andrade26:002TItabaiana/SE20 - Fagner da Costa Oliveira8 - Wilian Moreira da Silva Marc...26:002TItabaiana/SE16 - Prosper Costa Koffi7 - Carlos Henrique Nascimento S...26:002TPotiguar/RN16 - Histone da Silva Sousa5 - Rodrigo Alves de Jesus Silve...30:002TPotiguar/RN15 - Samuel Franca Jo6 - Francielmo Silva dos Santos ..."
-Ocorrências / Observações
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormal.Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:Foram dado acrÃ©scimos devido a substituiÃ§Ãµes, atendimento medico e parada para resfriamento.foi dado 1 minuto de silencio em respeito as vitimas do covid 19.ObservaÃ§Ãµes EventuaisNada houve de anormal.RelatÃ³rio do AssistenteNada a relatar.SubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu11:002TPotiguar/RN18 - Dorgival da Silva Nascimento9 - Anderson Soares Santana11:002TPotiguar/RN19 - Andre Oliveira de Lima Costa11 - Raul de Oliveira Romualdo18:002TItabaiana/SE15 - Geovanio Santos de Oliveira11 - Willians Ferreira da Silva18:002TItabaiana/SE14 - Jan Pieter Broman3 - Diego Andrade Silva Bispo18:002TItabaiana/SE17 - Alex Sandre Assis de Souza J...10 - Joao Emanoel Ferreira Souza20:002TPotiguar/RN17 - Allyson do Nascimento Honorio7 - Alyson Romeu Dantas de Andrade26:002TItabaiana/SE20 - Fagner da Costa Oliveira8 - Wilian Moreira da Silva Marc...26:002TItabaiana/SE16 - Prosper Costa Koffi7 - Carlos Henrique Nascimento S...26:002TPotiguar/RN16 - Histone da Silva Sousa5 - Rodrigo Alves de Jesus Silve...30:002TPotiguar/RN15 - Samuel Franca Jo6 - Francielmo Silva dos Santos ..."
+OcorrÃªncias / ObservaÃ§Ãµes
 Nada houve de anormal.
-"Ocorrências / ObservaçõesNada houve de anormal.Motivo de atraso no início e/ou reinício, e de acréscimos:Foram dado acréscimos devido a substituições, atendimento medico e parada para resfriamento.foi dado 1 minuto de silencio em respeito as vitimas do covid 19.Observações EventuaisNada houve de anormal.Relatório do AssistenteNada a relatar.SubstituiçõesTempo1T/2TEquipeEntrouSaiu11:002TPotiguar/RN18 - Dorgival da Silva Nascimento9 - Anderson Soares Santana11:002TPotiguar/RN19 - Andre Oliveira de Lima Costa11 - Raul de Oliveira Romualdo18:002TItabaiana/SE15 - Geovanio Santos de Oliveira11 - Willians Ferreira da Silva18:002TItabaiana/SE14 - Jan Pieter Broman3 - Diego Andrade Silva Bispo18:002TItabaiana/SE17 - Alex Sandre Assis de Souza J...10 - Joao Emanoel Ferreira Souza20:002TPotiguar/RN17 - Allyson do Nascimento Honorio7 - Alyson Romeu Dantas de Andrade26:002TItabaiana/SE20 - Fagner da Costa Oliveira8 - Wilian Moreira da Silva Marc...26:002TItabaiana/SE16 - Prosper Costa Koffi7 - Carlos Henrique Nascimento S...26:002TPotiguar/RN16 - Histone da Silva Sousa5 - Rodrigo Alves de Jesus Silve...30:002TPotiguar/RN15 - Samuel Franca Jo6 - Francielmo Silva dos Santos ..."
-Observações Eventuais
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormal.Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:Foram dado acrÃ©scimos devido a substituiÃ§Ãµes, atendimento medico e parada para resfriamento.foi dado 1 minuto de silencio em respeito as vitimas do covid 19.ObservaÃ§Ãµes EventuaisNada houve de anormal.RelatÃ³rio do AssistenteNada a relatar.SubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu11:002TPotiguar/RN18 - Dorgival da Silva Nascimento9 - Anderson Soares Santana11:002TPotiguar/RN19 - Andre Oliveira de Lima Costa11 - Raul de Oliveira Romualdo18:002TItabaiana/SE15 - Geovanio Santos de Oliveira11 - Willians Ferreira da Silva18:002TItabaiana/SE14 - Jan Pieter Broman3 - Diego Andrade Silva Bispo18:002TItabaiana/SE17 - Alex Sandre Assis de Souza J...10 - Joao Emanoel Ferreira Souza20:002TPotiguar/RN17 - Allyson do Nascimento Honorio7 - Alyson Romeu Dantas de Andrade26:002TItabaiana/SE20 - Fagner da Costa Oliveira8 - Wilian Moreira da Silva Marc...26:002TItabaiana/SE16 - Prosper Costa Koffi7 - Carlos Henrique Nascimento S...26:002TPotiguar/RN16 - Histone da Silva Sousa5 - Rodrigo Alves de Jesus Silve...30:002TPotiguar/RN15 - Samuel Franca Jo6 - Francielmo Silva dos Santos ..."
+ObservaÃ§Ãµes Eventuais
 Nada houve de anormal.
-"Ocorrências / ObservaçõesNada houve de anormal.Motivo de atraso no início e/ou reinício, e de acréscimos:Foram dado acréscimos devido a substituições, atendimento medico e parada para resfriamento.foi dado 1 minuto de silencio em respeito as vitimas do covid 19.Observações EventuaisNada houve de anormal.Relatório do AssistenteNada a relatar.SubstituiçõesTempo1T/2TEquipeEntrouSaiu11:002TPotiguar/RN18 - Dorgival da Silva Nascimento9 - Anderson Soares Santana11:002TPotiguar/RN19 - Andre Oliveira de Lima Costa11 - Raul de Oliveira Romualdo18:002TItabaiana/SE15 - Geovanio Santos de Oliveira11 - Willians Ferreira da Silva18:002TItabaiana/SE14 - Jan Pieter Broman3 - Diego Andrade Silva Bispo18:002TItabaiana/SE17 - Alex Sandre Assis de Souza J...10 - Joao Emanoel Ferreira Souza20:002TPotiguar/RN17 - Allyson do Nascimento Honorio7 - Alyson Romeu Dantas de Andrade26:002TItabaiana/SE20 - Fagner da Costa Oliveira8 - Wilian Moreira da Silva Marc...26:002TItabaiana/SE16 - Prosper Costa Koffi7 - Carlos Henrique Nascimento S...26:002TPotiguar/RN16 - Histone da Silva Sousa5 - Rodrigo Alves de Jesus Silve...30:002TPotiguar/RN15 - Samuel Franca Jo6 - Francielmo Silva dos Santos ...",,,,
-Substituições,,,,
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormal.Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:Foram dado acrÃ©scimos devido a substituiÃ§Ãµes, atendimento medico e parada para resfriamento.foi dado 1 minuto de silencio em respeito as vitimas do covid 19.ObservaÃ§Ãµes EventuaisNada houve de anormal.RelatÃ³rio do AssistenteNada a relatar.SubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu11:002TPotiguar/RN18 - Dorgival da Silva Nascimento9 - Anderson Soares Santana11:002TPotiguar/RN19 - Andre Oliveira de Lima Costa11 - Raul de Oliveira Romualdo18:002TItabaiana/SE15 - Geovanio Santos de Oliveira11 - Willians Ferreira da Silva18:002TItabaiana/SE14 - Jan Pieter Broman3 - Diego Andrade Silva Bispo18:002TItabaiana/SE17 - Alex Sandre Assis de Souza J...10 - Joao Emanoel Ferreira Souza20:002TPotiguar/RN17 - Allyson do Nascimento Honorio7 - Alyson Romeu Dantas de Andrade26:002TItabaiana/SE20 - Fagner da Costa Oliveira8 - Wilian Moreira da Silva Marc...26:002TItabaiana/SE16 - Prosper Costa Koffi7 - Carlos Henrique Nascimento S...26:002TPotiguar/RN16 - Histone da Silva Sousa5 - Rodrigo Alves de Jesus Silve...30:002TPotiguar/RN15 - Samuel Franca Jo6 - Francielmo Silva dos Santos ...",,,,
+SubstituiÃ§Ãµes,,,,
 Tempo,1T/2T,Equipe,Entrou,Saiu
 11:00,2T,Potiguar/RN,18 - Dorgival da Silva Nascimento,9 - Anderson Soares Santana
 11:00,2T,Potiguar/RN,19 - Andre Oliveira de Lima Costa,11 - Raul de Oliveira Romualdo
@@ -87,15 +79,15 @@ Tempo,1T/2T,Equipe,Entrou,Saiu
 26:00,2T,Itabaiana/SE,16 - Prosper Costa Koffi,7 - Carlos Henrique Nascimento S...
 26:00,2T,Potiguar/RN,16 - Histone da Silva Sousa,5 - Rodrigo Alves de Jesus Silve...
 30:00,2T,Potiguar/RN,15 - Samuel Franca Jo,6 - Francielmo Silva dos Santos ...
-"Ocorrências / ObservaçõesNada houve de anormal.Motivo de atraso no início e/ou reinício, e de acréscimos:Foram dado acréscimos devido a substituições, atendimento medico e parada para resfriamento.foi dado 1 minuto de silencio em respeito as vitimas do covid 19.Observações EventuaisNada houve de anormal.Relatório do AssistenteNada a relatar.SubstituiçõesTempo1T/2TEquipeEntrouSaiu11:002TPotiguar/RN18 - Dorgival da Silva Nascimento9 - Anderson Soares Santana11:002TPotiguar/RN19 - Andre Oliveira de Lima Costa11 - Raul de Oliveira Romualdo18:002TItabaiana/SE15 - Geovanio Santos de Oliveira11 - Willians Ferreira da Silva18:002TItabaiana/SE14 - Jan Pieter Broman3 - Diego Andrade Silva Bispo18:002TItabaiana/SE17 - Alex Sandre Assis de Souza J...10 - Joao Emanoel Ferreira Souza20:002TPotiguar/RN17 - Allyson do Nascimento Honorio7 - Alyson Romeu Dantas de Andrade26:002TItabaiana/SE20 - Fagner da Costa Oliveira8 - Wilian Moreira da Silva Marc...26:002TItabaiana/SE16 - Prosper Costa Koffi7 - Carlos Henrique Nascimento S...26:002TPotiguar/RN16 - Histone da Silva Sousa5 - Rodrigo Alves de Jesus Silve...30:002TPotiguar/RN15 - Samuel Franca Jo6 - Francielmo Silva dos Santos ...",,,,
-Ocorrências / Observações,,,,
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormal.Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:Foram dado acrÃ©scimos devido a substituiÃ§Ãµes, atendimento medico e parada para resfriamento.foi dado 1 minuto de silencio em respeito as vitimas do covid 19.ObservaÃ§Ãµes EventuaisNada houve de anormal.RelatÃ³rio do AssistenteNada a relatar.SubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu11:002TPotiguar/RN18 - Dorgival da Silva Nascimento9 - Anderson Soares Santana11:002TPotiguar/RN19 - Andre Oliveira de Lima Costa11 - Raul de Oliveira Romualdo18:002TItabaiana/SE15 - Geovanio Santos de Oliveira11 - Willians Ferreira da Silva18:002TItabaiana/SE14 - Jan Pieter Broman3 - Diego Andrade Silva Bispo18:002TItabaiana/SE17 - Alex Sandre Assis de Souza J...10 - Joao Emanoel Ferreira Souza20:002TPotiguar/RN17 - Allyson do Nascimento Honorio7 - Alyson Romeu Dantas de Andrade26:002TItabaiana/SE20 - Fagner da Costa Oliveira8 - Wilian Moreira da Silva Marc...26:002TItabaiana/SE16 - Prosper Costa Koffi7 - Carlos Henrique Nascimento S...26:002TPotiguar/RN16 - Histone da Silva Sousa5 - Rodrigo Alves de Jesus Silve...30:002TPotiguar/RN15 - Samuel Franca Jo6 - Francielmo Silva dos Santos ...",,,,
+OcorrÃªncias / ObservaÃ§Ãµes,,,,
 Nada houve de anormal.,,,,
-"Motivo de atraso no início e/ou reinício, e de acréscimos:Foram dado acréscimos devido a substituições, atendimento medico e parada para resfriamento.foi dado 1 minuto de silencio em respeito as vitimas do covid 19.",,,,
-Observações Eventuais,,,,
+"Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:Foram dado acrÃ©scimos devido a substituiÃ§Ãµes, atendimento medico e parada para resfriamento.foi dado 1 minuto de silencio em respeito as vitimas do covid 19.",,,,
+ObservaÃ§Ãµes Eventuais,,,,
 Nada houve de anormal.,,,,
-Relatório do Assistente,,,,
+RelatÃ³rio do Assistente,,,,
 Nada a relatar.,,,,
-Substituições,,,,
+SubstituiÃ§Ãµes,,,,
 Tempo,1T/2T,Equipe,Entrou,Saiu
 11:00,2T,Potiguar/RN,18 - Dorgival da Silva Nascimento,9 - Anderson Soares Santana
 11:00,2T,Potiguar/RN,19 - Andre Oliveira de Lima Costa,11 - Raul de Oliveira Romualdo
@@ -107,8 +99,8 @@ Tempo,1T/2T,Equipe,Entrou,Saiu
 26:00,2T,Itabaiana/SE,16 - Prosper Costa Koffi,7 - Carlos Henrique Nascimento S...
 26:00,2T,Potiguar/RN,16 - Histone da Silva Sousa,5 - Rodrigo Alves de Jesus Silve...
 30:00,2T,Potiguar/RN,15 - Samuel Franca Jo,6 - Francielmo Silva dos Santos ...
-"Ocorrências / ObservaçõesNada houve de anormal.Motivo de atraso no início e/ou reinício, e de acréscimos:Foram dado acréscimos devido a substituições, atendimento medico e parada para resfriamento.foi dado 1 minuto de silencio em respeito as vitimas do covid 19.Observações EventuaisNada houve de anormal.Relatório do AssistenteNada a relatar.SubstituiçõesTempo1T/2TEquipeEntrouSaiu11:002TPotiguar/RN18 - Dorgival da Silva Nascimento9 - Anderson Soares Santana11:002TPotiguar/RN19 - Andre Oliveira de Lima Costa11 - Raul de Oliveira Romualdo18:002TItabaiana/SE15 - Geovanio Santos de Oliveira11 - Willians Ferreira da Silva18:002TItabaiana/SE14 - Jan Pieter Broman3 - Diego Andrade Silva Bispo18:002TItabaiana/SE17 - Alex Sandre Assis de Souza J...10 - Joao Emanoel Ferreira Souza20:002TPotiguar/RN17 - Allyson do Nascimento Honorio7 - Alyson Romeu Dantas de Andrade26:002TItabaiana/SE20 - Fagner da Costa Oliveira8 - Wilian Moreira da Silva Marc...26:002TItabaiana/SE16 - Prosper Costa Koffi7 - Carlos Henrique Nascimento S...26:002TPotiguar/RN16 - Histone da Silva Sousa5 - Rodrigo Alves de Jesus Silve...30:002TPotiguar/RN15 - Samuel Franca Jo6 - Francielmo Silva dos Santos ..."
-Relatório do Assistente
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormal.Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:Foram dado acrÃ©scimos devido a substituiÃ§Ãµes, atendimento medico e parada para resfriamento.foi dado 1 minuto de silencio em respeito as vitimas do covid 19.ObservaÃ§Ãµes EventuaisNada houve de anormal.RelatÃ³rio do AssistenteNada a relatar.SubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu11:002TPotiguar/RN18 - Dorgival da Silva Nascimento9 - Anderson Soares Santana11:002TPotiguar/RN19 - Andre Oliveira de Lima Costa11 - Raul de Oliveira Romualdo18:002TItabaiana/SE15 - Geovanio Santos de Oliveira11 - Willians Ferreira da Silva18:002TItabaiana/SE14 - Jan Pieter Broman3 - Diego Andrade Silva Bispo18:002TItabaiana/SE17 - Alex Sandre Assis de Souza J...10 - Joao Emanoel Ferreira Souza20:002TPotiguar/RN17 - Allyson do Nascimento Honorio7 - Alyson Romeu Dantas de Andrade26:002TItabaiana/SE20 - Fagner da Costa Oliveira8 - Wilian Moreira da Silva Marc...26:002TItabaiana/SE16 - Prosper Costa Koffi7 - Carlos Henrique Nascimento S...26:002TPotiguar/RN16 - Histone da Silva Sousa5 - Rodrigo Alves de Jesus Silve...30:002TPotiguar/RN15 - Samuel Franca Jo6 - Francielmo Silva dos Santos ..."
+RelatÃ³rio do Assistente
 Nada a relatar.
-"Ocorrências / ObservaçõesNada houve de anormal.Motivo de atraso no início e/ou reinício, e de acréscimos:Foram dado acréscimos devido a substituições, atendimento medico e parada para resfriamento.foi dado 1 minuto de silencio em respeito as vitimas do covid 19.Observações EventuaisNada houve de anormal.Relatório do AssistenteNada a relatar.SubstituiçõesTempo1T/2TEquipeEntrouSaiu11:002TPotiguar/RN18 - Dorgival da Silva Nascimento9 - Anderson Soares Santana11:002TPotiguar/RN19 - Andre Oliveira de Lima Costa11 - Raul de Oliveira Romualdo18:002TItabaiana/SE15 - Geovanio Santos de Oliveira11 - Willians Ferreira da Silva18:002TItabaiana/SE14 - Jan Pieter Broman3 - Diego Andrade Silva Bispo18:002TItabaiana/SE17 - Alex Sandre Assis de Souza J...10 - Joao Emanoel Ferreira Souza20:002TPotiguar/RN17 - Allyson do Nascimento Honorio7 - Alyson Romeu Dantas de Andrade26:002TItabaiana/SE20 - Fagner da Costa Oliveira8 - Wilian Moreira da Silva Marc...26:002TItabaiana/SE16 - Prosper Costa Koffi7 - Carlos Henrique Nascimento S...26:002TPotiguar/RN16 - Histone da Silva Sousa5 - Rodrigo Alves de Jesus Silve...30:002TPotiguar/RN15 - Samuel Franca Jo6 - Francielmo Silva dos Santos ..."
-"Motivo de atraso no início e/ou reinício, e de acréscimos:Foram dado acréscimos devido a substituições, atendimento medico e parada para resfriamento.foi dado 1 minuto de silencio em respeito as vitimas do covid 19."
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormal.Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:Foram dado acrÃ©scimos devido a substituiÃ§Ãµes, atendimento medico e parada para resfriamento.foi dado 1 minuto de silencio em respeito as vitimas do covid 19.ObservaÃ§Ãµes EventuaisNada houve de anormal.RelatÃ³rio do AssistenteNada a relatar.SubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu11:002TPotiguar/RN18 - Dorgival da Silva Nascimento9 - Anderson Soares Santana11:002TPotiguar/RN19 - Andre Oliveira de Lima Costa11 - Raul de Oliveira Romualdo18:002TItabaiana/SE15 - Geovanio Santos de Oliveira11 - Willians Ferreira da Silva18:002TItabaiana/SE14 - Jan Pieter Broman3 - Diego Andrade Silva Bispo18:002TItabaiana/SE17 - Alex Sandre Assis de Souza J...10 - Joao Emanoel Ferreira Souza20:002TPotiguar/RN17 - Allyson do Nascimento Honorio7 - Alyson Romeu Dantas de Andrade26:002TItabaiana/SE20 - Fagner da Costa Oliveira8 - Wilian Moreira da Silva Marc...26:002TItabaiana/SE16 - Prosper Costa Koffi7 - Carlos Henrique Nascimento S...26:002TPotiguar/RN16 - Histone da Silva Sousa5 - Rodrigo Alves de Jesus Silve...30:002TPotiguar/RN15 - Samuel Franca Jo6 - Francielmo Silva dos Santos ..."
+"Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:Foram dado acrÃ©scimos devido a substituiÃ§Ãµes, atendimento medico e parada para resfriamento.foi dado 1 minuto de silencio em respeito as vitimas do covid 19."

@@ -1,6 +1,6 @@
-Campeonato:,Campeonato Brasileiro - Série A/2020,,Rodada:,37
+Campeonato:,Campeonato Brasileiro - SÃ©rie A/2020,,Rodada:,37
 Jogo:,Santos / SP X Fluminense / RJ,,,
-Data:,21/02/2021 Horário: 18:15 Estádio:,Urbano Caldeira / Santos,,
+Data:,21/02/2021 HorÃ¡rio: 18:15 EstÃ¡dio:,Urbano Caldeira / Santos,,
 "",,Arbitragem
 Arbitro:,Savio Pereira Sampaio (AB / DF),
 Arbitro Assistente 1:,Daniel Henrique da Silva Andrade (AB / DF),
@@ -13,12 +13,12 @@ AVAR1:,Paulo Roberto Alves Junior (AB / PR),
 AVAR2:,Ciro Chaban Junqueira (AB / DF),
 "",,,Cronologia,,,
 "",1o Tempo,,2o Tempo,,,
-Entrada do mandante:,18:05Atraso:,,Não Houve Entrada do mandante: 19:18,,Atraso:,Não Houve
-Entrada do visitante:,18:05Atraso:,,Não Houve Entrada do visitante: 19:18,,Atraso:,Não Houve
-Início 1o Tempo:,18:15Atraso:,,Não Houve Início do 2o Tempo: 19:20,,Atraso:,Não Houve
-Término do 1o Tempo:,19:05Acréscimo:,,5 min Término do 2o Tempo: 20:11,Acréscimo:,,6 min
+Entrada do mandante:,18:05Atraso:,,NÃ£o Houve Entrada do mandante: 19:18,,Atraso:,NÃ£o Houve
+Entrada do visitante:,18:05Atraso:,,NÃ£o Houve Entrada do visitante: 19:18,,Atraso:,NÃ£o Houve
+InÃ­cio 1o Tempo:,18:15Atraso:,,NÃ£o Houve InÃ­cio do 2o Tempo: 19:20,,Atraso:,NÃ£o Houve
+TÃ©rmino do 1o Tempo:,19:05AcrÃ©scimo:,,5 min TÃ©rmino do 2o Tempo: 20:11,AcrÃ©scimo:,,6 min
 Resultado do 1o Tempo: 0 X 1,,,Resultado Final: 1 X 1,,,
-"",,,,,Relação de Jogadores,,,,
+"",,,,,RelaÃ§Ã£o de Jogadores,,,,
 "",,Santos / SP,,,,Fluminense / RJ,,,
 No,Apelido,Nome Completo,T/R,P/A,CBF No Apelido,Nome Completo T/R,,P/A,CBF
 34,Joao Paulo,Joao Paulo Silva Martins,T(g),P,362877 1 Marcos Felipe,Marcos Felipe de Fre ... T(g),,P,318563
@@ -31,18 +31,18 @@ No,Apelido,Nome Completo,T/R,P/A,CBF No Apelido,Nome Completo T/R,,P/A,CBF
 17,Vinicius,Vinicius Balieiro Lo ...,T,P,412394 33 Nino,Marcilio Florencio M ... T,,P,379386
 30,Lucas,Lucas Braga Ribeiro,T,P,541268 34 Luiz Henrique,Luiz Henrique Andre  ... T,,P,523841
 36,Marcos Leo ...,Marcos Leonardo Sant ...,T,P,568013 38 Martinelli,Matheus Martinelli Lima T,,P,517552
-38,Sandry,Sandry Roberto Santo ...,T,P,541292 77 Nenê,Anderson Luis de Carvalho T,,P,150986
+38,Sandry,Sandry Roberto Santo ...,T,P,541292 77 NenÃª,Anderson Luis de Carvalho T,,P,150986
 31,John,John Victor Maciel F ...,R(g),P,385767 27 Muriel,Muriel Gustavo Becker R(g),,P,165925
 10,Yeferson S ...,Yeferson Julio Sotel ...,R,P,646668 5 Yuri,Yuri Oliveira Lima R,,P,307979
 13,Madson,Madson Ferreira dos  ...,R,P,321829 14 Danilo Bar ...,Danilo Carvalho Barcelos R,,P,313755
 19,Bruno Henr ...,Bruno Henrique Marqu ...,R,P,606130 15 Michel Araujo,Michel Daryl Araujo  ... R,,P,693055
-23,Arthur,Arthur Gomes Lourenco,R,P,387808 16 Fernando P ...,Fernando José Pachec ... R,,P,693970
-25,Guilherme,Guilherme Nunes da Silva,R,P,460473 21 Igor Julião,Igor de Carvalho Juliao R,,P,307616
-27,Ângelo,Angelo Gabriel Borge ...,R,P,612310 23 John Kennedy,John Kennedy Batista ... R,,P,580701
+23,Arthur,Arthur Gomes Lourenco,R,P,387808 16 Fernando P ...,Fernando JosÃ© Pachec ... R,,P,693970
+25,Guilherme,Guilherme Nunes da Silva,R,P,460473 21 Igor JuliÃ£o,Igor de Carvalho Juliao R,,P,307616
+27,Ã‚ngelo,Angelo Gabriel Borge ...,R,P,612310 23 John Kennedy,John Kennedy Batista ... R,,P,580701
 37,Lucas Lour ...,Lucas Lourenco Andrade,R,P,445329 25 Hudson,Hudson Rodrigues dos ... R,,P,176729
 41,Sousa,Jean Mota Oliveira d ...,R,P,331842 28 Samuel,Samuel Salustiano de ... R,,P,522260
 42,Wagner,Wagner Leonardo Calv ...,R,P,408944 30 Miguel,Miguel Silveira dos  ... R,,P,582161
-44,Alex,Alex de Oliveira Nas ...,R,P,432392 35 André,André Trindade da Co ... R,,P,535518
+44,Alex,Alex de Oliveira Nas ...,R,P,432392 35 AndrÃ©,AndrÃ© Trindade da Co ... R,,P,535518
 45,Ivonei,Ivonei Junior da Sil ...,R,P,541293 70 Caio Paulista,Caio Fernando de Oliveira R,,P,460683
 No,Apelido,Nome Completo,T/R,P/A,CBF,No,Apelido,Nome Completo T/R,,P/A,CBF
 34,Joao Paulo,Joao Paulo Silva Martins,T(g),P,362877,1,Marcos Felipe,Marcos Felipe de Fre ... T(g),,P,318563
@@ -55,38 +55,38 @@ No,Apelido,Nome Completo,T/R,P/A,CBF,No,Apelido,Nome Completo T/R,,P/A,CBF
 17,Vinicius,Vinicius Balieiro Lo ...,T,P,412394,33,Nino,Marcilio Florencio M ... T,,P,379386
 30,Lucas,Lucas Braga Ribeiro,T,P,541268,34,Luiz Henrique,Luiz Henrique Andre  ... T,,P,523841
 36,Marcos Leo ...,Marcos Leonardo Sant ...,T,P,568013,38,Martinelli,Matheus Martinelli Lima T,,P,517552
-38,Sandry,Sandry Roberto Santo ...,T,P,541292,77,Nenê,Anderson Luis de Carvalho T,,P,150986
+38,Sandry,Sandry Roberto Santo ...,T,P,541292,77,NenÃª,Anderson Luis de Carvalho T,,P,150986
 31,John,John Victor Maciel F ...,R(g),P,385767,27,Muriel,Muriel Gustavo Becker R(g),,P,165925
 10,Yeferson S ...,Yeferson Julio Sotel ...,R,P,646668,5,Yuri,Yuri Oliveira Lima R,,P,307979
 13,Madson,Madson Ferreira dos  ...,R,P,321829,14,Danilo Bar ...,Danilo Carvalho Barcelos R,,P,313755
 19,Bruno Henr ...,Bruno Henrique Marqu ...,R,P,606130,15,Michel Araujo,Michel Daryl Araujo  ... R,,P,693055
-23,Arthur,Arthur Gomes Lourenco,R,P,387808,16,Fernando P ...,Fernando José Pachec ... R,,P,693970
-25,Guilherme,Guilherme Nunes da Silva,R,P,460473,21,Igor Julião,Igor de Carvalho Juliao R,,P,307616
-27,Ângelo,Angelo Gabriel Borge ...,R,P,612310,23,John Kennedy,John Kennedy Batista ... R,,P,580701
+23,Arthur,Arthur Gomes Lourenco,R,P,387808,16,Fernando P ...,Fernando JosÃ© Pachec ... R,,P,693970
+25,Guilherme,Guilherme Nunes da Silva,R,P,460473,21,Igor JuliÃ£o,Igor de Carvalho Juliao R,,P,307616
+27,Ã‚ngelo,Angelo Gabriel Borge ...,R,P,612310,23,John Kennedy,John Kennedy Batista ... R,,P,580701
 37,Lucas Lour ...,Lucas Lourenco Andrade,R,P,445329,25,Hudson,Hudson Rodrigues dos ... R,,P,176729
 41,Sousa,Jean Mota Oliveira d ...,R,P,331842,28,Samuel,Samuel Salustiano de ... R,,P,522260
 42,Wagner,Wagner Leonardo Calv ...,R,P,408944,30,Miguel,Miguel Silveira dos  ... R,,P,582161
-44,Alex,Alex de Oliveira Nas ...,R,P,432392,35,André,André Trindade da Co ... R,,P,535518
+44,Alex,Alex de Oliveira Nas ...,R,P,432392,35,AndrÃ©,AndrÃ© Trindade da Co ... R,,P,535518
 45,Ivonei,Ivonei Junior da Sil ...,R,P,541293,70,Caio Paulista,Caio Fernando de Oliveira R,,P,460683
-"",,Comissão Técnica,
+"",,ComissÃ£o TÃ©cnica,
 "",Santos / SP,,Fluminense / RJ
-Técnico:,Alexi Stival,Técnico:,Marco Aurelio De Oliveira
-Auxiliar Técnico:,Avlamir Dirceo Stival,Auxiliar Técnico:,Ailton Dos Santos Ferraz
-Médico:,Ricardo Galotti,Médico:,Ricardo Reiniger Olivero
+TÃ©cnico:,Alexi Stival,TÃ©cnico:,Marco Aurelio De Oliveira
+Auxiliar TÃ©cnico:,Avlamir Dirceo Stival,Auxiliar TÃ©cnico:,Ailton Dos Santos Ferraz
+MÃ©dico:,Ricardo Galotti,MÃ©dico:,Ricardo Reiniger Olivero
 Treinador De Goleiros:,Sebastiao Martins De Oliveira Junior,Treinador De Goleiros:,Andre Carvalho Da Silva
-Preparador Físico:,Jose Omar Alves Feitosa,Preparador Físico:,Marcos De Seixas Correa
+Preparador FÃ­sico:,Jose Omar Alves Feitosa,Preparador FÃ­sico:,Marcos De Seixas Correa
 Massagista:,Renato Luiz De Oliveira Milho,Fisioterapeuta:,Roberto Schmidt Tupinamba Fernandes De Sa
 "",,,,,Gols,
 Tempo,1T/2T,No,Tipo,Nome do Jogador,,Equipe
 16:00,1T,7,NR,Lucca Borges de Brito,,Fluminense/RJ
 42:00,2T,41,NR,Jean Mota Oliveira de Sousa,,Santos/SP
-"",,,,Cartões Vermelhos
+"",,,,CartÃµes Vermelhos
 Tempo 1T/2T,No,,Nome do Jogador,
 39:00 2T,33,,Marcilio Florencio Mota Filho - Fluminense/RJ,
-Cartão Vermelho Direto,,,Motivo: V2.8.  Outro motivo (detalhar no campo expulsões) - Após a marcação de uma falta contra sua equipe o mesmo proferiu as,
+CartÃ£o Vermelho Direto,,,Motivo: V2.8.  Outro motivo (detalhar no campo expulsÃµes) - ApÃ³s a marcaÃ§Ã£o de uma falta contra sua equipe o mesmo proferiu as,
 "",,,"seguintes palavras para mim "" vai tomar no seu cu"", de forma ofensiva em alto tom de voz . me senti ofendido em minha honra com",
 "",,,esta atitude.,
-"",,,,Substituições,
+"",,,,SubstituiÃ§Ãµes,
 Tempo,1T/2T,,Equipe,Entrou,Saiu
 45:00,INT,Santos/SP,,13 - Madson Ferreira dos Santos,2 - Luiz Felipe do Nascimento do...
 45:00,INT,Santos/SP,,10 - Yeferson Julio Soteldo Marti...,36 - Marcos Leonardo Santos Almeida
@@ -96,5 +96,5 @@ Tempo,1T/2T,,Equipe,Entrou,Saiu
 27:00,2T,Santos/SP,,27 - Angelo Gabriel Borges Damaceno,30 - Lucas Braga Ribeiro
 27:00,2T,Fluminense/RJ,,23 - John Kennedy Batista de Souza,9 - Frederico Chaves Guedes
 41:00,2T,Fluminense/RJ,,5 - Yuri Oliveira Lima,77 - Anderson Luis de Carvalho
-41:00,2T,Fluminense/RJ,,35 - André Trindade da Costa Neto,7 - Lucca Borges de Brito
+41:00,2T,Fluminense/RJ,,35 - AndrÃ© Trindade da Costa Neto,7 - Lucca Borges de Brito
 41:00,2T,Santos/SP,,41 - Jean Mota Oliveira de Sousa,17 - Vinicius Balieiro Lourenco d...

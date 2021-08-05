@@ -1,6 +1,6 @@
-Campeonato:,Campeonato Brasileiro - Série A/2020,,Rodada:,24
-Jogo:,Atlético / MG X Internacional / RS,,,
-Data:,06/12/2020 Horário: 18:15 Estádio:,Magalhães Pinto / Belo Horizonte,,
+Campeonato:,Campeonato Brasileiro - SÃ©rie A/2020,,Rodada:,24
+Jogo:,AtlÃ©tico / MG X Internacional / RS,,,
+Data:,06/12/2020 HorÃ¡rio: 18:15 EstÃ¡dio:,MagalhÃ£es Pinto / Belo Horizonte,,
 "",,Arbitragem
 Arbitro:,Bruno Arleu de Araujo (FIFA / RJ),
 Arbitro Assistente 1:,Rodrigo Figueiredo Henrique Correa (FIFA / RJ),
@@ -13,13 +13,13 @@ AVAR1:,Grazianni Maciel Rocha (AB / RJ),
 AVAR2:,Carlos Henrique Cardoso de Souza (AB / RJ),
 "",,,Cronologia,,,
 "",1o Tempo,,2o Tempo,,,
-Entrada do mandante:,18:10Atraso:,,Não Houve Entrada do mandante: 19:15,,Atraso:,Não Houve
-Entrada do visitante:,18:11Atraso:,,Não Houve Entrada do visitante: 19:16,,Atraso:,Não Houve
-Início 1o Tempo:,18:15Atraso:,,Não Houve Início do 2o Tempo: 19:18,,Atraso:,Não Houve
-Término do 1o Tempo:,19:03Acréscimo:,,03 min Término do 2o Tempo: 20:07,Acréscimo:,,04 min
+Entrada do mandante:,18:10Atraso:,,NÃ£o Houve Entrada do mandante: 19:15,,Atraso:,NÃ£o Houve
+Entrada do visitante:,18:11Atraso:,,NÃ£o Houve Entrada do visitante: 19:16,,Atraso:,NÃ£o Houve
+InÃ­cio 1o Tempo:,18:15Atraso:,,NÃ£o Houve InÃ­cio do 2o Tempo: 19:18,,Atraso:,NÃ£o Houve
+TÃ©rmino do 1o Tempo:,19:03AcrÃ©scimo:,,03 min TÃ©rmino do 2o Tempo: 20:07,AcrÃ©scimo:,,04 min
 Resultado do 1o Tempo: 1 X 1,,,Resultado Final: 2 X 2,,,
-"",,,,,Relação de Jogadores,,,,
-"",,Atlético / MG,,,,Internacional / RS,,,
+"",,,,,RelaÃ§Ã£o de Jogadores,,,,
+"",,AtlÃ©tico / MG,,,,Internacional / RS,,,
 No,Apelido,Nome Completo,T/R,P/A,CBF No Apelido,Nome Completo,T/R,P/A,CBF
 31,Everson,Everson Felipe Marqu ... T(g),,P,188398 12 Marcelo,Marcelo Lomba do Nas ... T(g),,P,157264
 2,Guga,Claudio Rodrigues Gomes,T,P,317445 5 MUSTO,Damian Marcelo Musto,T,P,692784
@@ -37,8 +37,8 @@ No,Apelido,Nome Completo,T/R,P/A,CBF No Apelido,Nome Completo,T/R,P/A,CBF
 21,Alan Franco,Alan Steven Franco Palma,R,P,699171 17 Thiago Gal ...,Thiago Galhardo do N ...,R,P,189822
 23,Nathan,Nathan Allan de Souza,R,P,344314 19 Rodrigo,Rodrigo Oliveira Lindoso,R,P,184455
 25,Mariano,Mariano Ferreira Filho,R,P,170144 27 Mauricio,Mauricio Magalhaes Prado,R,P,542337
-27,Caio Ribas,Caio Henrique Ribas  ...,R,P,611970 31 João Peglow,Joao Gabriel Martins ...,R,P,520239
-33,Sávio,Savio Moreira de Oliveira,R,P,620423 32 Keiller,Keiller da Silva Nunes,R,P,363886
+27,Caio Ribas,Caio Henrique Ribas  ...,R,P,611970 31 JoÃ£o Peglow,Joao Gabriel Martins ...,R,P,520239
+33,SÃ¡vio,Savio Moreira de Oliveira,R,P,620423 32 Keiller,Keiller da Silva Nunes,R,P,363886
 34,Jean,Jean Carlos Batista,R,P,567530 33 Nonato,Gustavo Nonato Santana,R,P,337363
 38,Marrony,Marrony da Silva Lib ...,R,P,463599 35 Gabriel,Jose Gabriel dos San ...,R,P,372403
 40,Bueno,Wellington Daniel Bueno,R,P,346196 36 Leonardo,Leonardo Borges da Silva,R,P,529339
@@ -61,70 +61,70 @@ No,Apelido Nome Completo,,T/R,P/A,CBF,No,Apelido,Nome Completo,T/R,P/A,CBF
 21,Alan Franco Alan Steven Franco Palma,,R,P,699171,17,Thiago Gal ...,Thiago Galhardo do N ...,R,P,189822
 23,Nathan Nathan Allan de Souza,,R,P,344314,19,Rodrigo,Rodrigo Oliveira Lindoso,R,P,184455
 25,Mariano Mariano Ferreira Filho,,R,P,170144,27,Mauricio,Mauricio Magalhaes Prado,R,P,542337
-27,Caio Ribas Caio Henrique Ribas  ...,,R,P,611970,31,João Peglow,Joao Gabriel Martins ...,R,P,520239
-33,Sávio Savio Moreira de Oliveira,,R,P,620423,32,Keiller,Keiller da Silva Nunes,R,P,363886
+27,Caio Ribas Caio Henrique Ribas  ...,,R,P,611970,31,JoÃ£o Peglow,Joao Gabriel Martins ...,R,P,520239
+33,SÃ¡vio Savio Moreira de Oliveira,,R,P,620423,32,Keiller,Keiller da Silva Nunes,R,P,363886
 34,Jean Jean Carlos Batista,,R,P,567530,33,Nonato,Gustavo Nonato Santana,R,P,337363
 38,Marrony Marrony da Silva Lib ...,,R,P,463599,35,Gabriel,Jose Gabriel dos San ...,R,P,372403
 40,Bueno Wellington Daniel Bueno,,R,P,346196,36,Leonardo,Leonardo Borges da Silva,R,P,529339
 50,Marquinhos Jose Marcos Costa Martins,,R,P,504064,41,Pedro Henr ...,Pedro Henrique Alves ...,R,P,532559
 51,Rubens Rubens Antonio Dias,,R,P,547882,45,Praxedes,Bruno Conceicao Praxedes,R,P,541788
-"",,Comissão Técnica,
-"",Atlético / MG,,Internacional / RS
-Técnico:,Jorge Luis Sampaoli Moya,Auxiliar Técnico:,Osmar Loss Vieira
-Auxiliar Técnico:,Jorge Alberto Desio,Auxiliar Técnico:,Leomir De Souza
-Médico:,Rodrigo Campos Pace Lasmar,Médico:,Carlos Henrique Poisl Junior
+"",,ComissÃ£o TÃ©cnica,
+"",AtlÃ©tico / MG,,Internacional / RS
+TÃ©cnico:,Jorge Luis Sampaoli Moya,Auxiliar TÃ©cnico:,Osmar Loss Vieira
+Auxiliar TÃ©cnico:,Jorge Alberto Desio,Auxiliar TÃ©cnico:,Leomir De Souza
+MÃ©dico:,Rodrigo Campos Pace Lasmar,MÃ©dico:,Carlos Henrique Poisl Junior
 Treinador De Goleiros:,Diogo Meschine Alves,Treinador De Goleiros:,Daniel Da Fonseca Pavan
-Preparador Físico:,Pablo Candido Fernandez,Preparador Físico:,Cristiano Garcia Nunes
+Preparador FÃ­sico:,Pablo Candido Fernandez,Preparador FÃ­sico:,Cristiano Garcia Nunes
 Massagista:,Alexandre William Pinto Coelho,Massagista:,Paulo Juarez Quintanilha Da Silva
 "",,,,,Gols,
 Tempo,1T/2T,No,Tipo,Nome do Jogador,,Equipe
 08:00,1T,11,NR,Yuri Alberto Monteiro da Silva,,Internacional/RS
 10:00,1T,5,CT,Damian Marcelo Musto,,Internacional/RS
-15:00,2T,20,NR,Hyoran Kaue Dalmoro,,Atlético/MG
+15:00,2T,20,NR,Hyoran Kaue Dalmoro,,AtlÃ©tico/MG
 42:00,2T,31,NR,Joao Gabriel Martins Peglow,,Internacional/RS
-"",,,,Cartões Amarelos
+"",,,,CartÃµes Amarelos
 Tempo,1T/2T,No,Nome do Jogador,Equipe
-35:00,1T,20,Hyoran Kaue Dalmoro,Atlético/MG
-"",,,Motivo: A1.3.  Cometer uma falta tática para impedir um ataque promissor - Cometer uma falta tática impedindo um ataque promissor.,
-"Ocorrências / ObservaçõesNada houve de anormal.Motivo de atraso no início e/ou reinício, e de acréscimos:Sem atrasos.acréscimos devido a substituições , retirada de jogadores supostamente lesionados e reposição de bola.foi respeitado um minuto de silêncio antesdo início da partida em homenagem póstuma as vítimas da covid-19 e ao senhor josé henrique neto, pai do arbitro marcelo de lima henrique.Observações EventuaisNada houve de anormal.Relatório do AssistenteNada a relatar.SubstituiçõesTempo1T/2TEquipeEntrouSaiu45:00INTInternacional/RS19 - Rodrigo Oliveira Lindoso5 - Damian Marcelo Musto13:002TInternacional/RS45 - Bruno Conceicao Praxedes13 - Rodrigo Dourado Cunha17:002TInternacional/RS17 - Thiago Galhardo do Nasciment...18 - Leandro Miguel Fernandez25:002TAtlético/MG21 - Alan Steven Franco Palma18 - Eduardo Colcenti Antunes29:002TInternacional/RS27 - Mauricio Magalhaes Prado23 - Marcos Guilherme de Almeida ...29:002TInternacional/RS31 - Joao Gabriel Martins Peglow11 - Yuri Alberto Monteiro da Silva31:002TAtlético/MG38 - Marrony da Silva Liberato Si...10 - Eduardo Jesus Vargas Rojas31:002TAtlético/MG15 - Federico Matias Zaracho20 - Hyoran Kaue Dalmoro38:002TAtlético/MG23 - Nathan Allan de Souza11 - Marcos da Silva Franca"
-Ocorrências / Observações
+35:00,1T,20,Hyoran Kaue Dalmoro,AtlÃ©tico/MG
+"",,,Motivo: A1.3.  Cometer uma falta tÃ¡tica para impedir um ataque promissor - Cometer uma falta tÃ¡tica impedindo um ataque promissor.,
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormal.Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:Sem atrasos.acrÃ©scimos devido a substituiÃ§Ãµes , retirada de jogadores supostamente lesionados e reposiÃ§Ã£o de bola.foi respeitado um minuto de silÃªncio antesdo inÃ­cio da partida em homenagem pÃ³stuma as vÃ­timas da covid-19 e ao senhor josÃ© henrique neto, pai do arbitro marcelo de lima henrique.ObservaÃ§Ãµes EventuaisNada houve de anormal.RelatÃ³rio do AssistenteNada a relatar.SubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu45:00INTInternacional/RS19 - Rodrigo Oliveira Lindoso5 - Damian Marcelo Musto13:002TInternacional/RS45 - Bruno Conceicao Praxedes13 - Rodrigo Dourado Cunha17:002TInternacional/RS17 - Thiago Galhardo do Nasciment...18 - Leandro Miguel Fernandez25:002TAtlÃ©tico/MG21 - Alan Steven Franco Palma18 - Eduardo Colcenti Antunes29:002TInternacional/RS27 - Mauricio Magalhaes Prado23 - Marcos Guilherme de Almeida ...29:002TInternacional/RS31 - Joao Gabriel Martins Peglow11 - Yuri Alberto Monteiro da Silva31:002TAtlÃ©tico/MG38 - Marrony da Silva Liberato Si...10 - Eduardo Jesus Vargas Rojas31:002TAtlÃ©tico/MG15 - Federico Matias Zaracho20 - Hyoran Kaue Dalmoro38:002TAtlÃ©tico/MG23 - Nathan Allan de Souza11 - Marcos da Silva Franca"
+OcorrÃªncias / ObservaÃ§Ãµes
 Nada houve de anormal.
-"Ocorrências / ObservaçõesNada houve de anormal.Motivo de atraso no início e/ou reinício, e de acréscimos:Sem atrasos.acréscimos devido a substituições , retirada de jogadores supostamente lesionados e reposição de bola.foi respeitado um minuto de silêncio antesdo início da partida em homenagem póstuma as vítimas da covid-19 e ao senhor josé henrique neto, pai do arbitro marcelo de lima henrique.Observações EventuaisNada houve de anormal.Relatório do AssistenteNada a relatar.SubstituiçõesTempo1T/2TEquipeEntrouSaiu45:00INTInternacional/RS19 - Rodrigo Oliveira Lindoso5 - Damian Marcelo Musto13:002TInternacional/RS45 - Bruno Conceicao Praxedes13 - Rodrigo Dourado Cunha17:002TInternacional/RS17 - Thiago Galhardo do Nasciment...18 - Leandro Miguel Fernandez25:002TAtlético/MG21 - Alan Steven Franco Palma18 - Eduardo Colcenti Antunes29:002TInternacional/RS27 - Mauricio Magalhaes Prado23 - Marcos Guilherme de Almeida ...29:002TInternacional/RS31 - Joao Gabriel Martins Peglow11 - Yuri Alberto Monteiro da Silva31:002TAtlético/MG38 - Marrony da Silva Liberato Si...10 - Eduardo Jesus Vargas Rojas31:002TAtlético/MG15 - Federico Matias Zaracho20 - Hyoran Kaue Dalmoro38:002TAtlético/MG23 - Nathan Allan de Souza11 - Marcos da Silva Franca"
-Observações Eventuais
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormal.Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:Sem atrasos.acrÃ©scimos devido a substituiÃ§Ãµes , retirada de jogadores supostamente lesionados e reposiÃ§Ã£o de bola.foi respeitado um minuto de silÃªncio antesdo inÃ­cio da partida em homenagem pÃ³stuma as vÃ­timas da covid-19 e ao senhor josÃ© henrique neto, pai do arbitro marcelo de lima henrique.ObservaÃ§Ãµes EventuaisNada houve de anormal.RelatÃ³rio do AssistenteNada a relatar.SubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu45:00INTInternacional/RS19 - Rodrigo Oliveira Lindoso5 - Damian Marcelo Musto13:002TInternacional/RS45 - Bruno Conceicao Praxedes13 - Rodrigo Dourado Cunha17:002TInternacional/RS17 - Thiago Galhardo do Nasciment...18 - Leandro Miguel Fernandez25:002TAtlÃ©tico/MG21 - Alan Steven Franco Palma18 - Eduardo Colcenti Antunes29:002TInternacional/RS27 - Mauricio Magalhaes Prado23 - Marcos Guilherme de Almeida ...29:002TInternacional/RS31 - Joao Gabriel Martins Peglow11 - Yuri Alberto Monteiro da Silva31:002TAtlÃ©tico/MG38 - Marrony da Silva Liberato Si...10 - Eduardo Jesus Vargas Rojas31:002TAtlÃ©tico/MG15 - Federico Matias Zaracho20 - Hyoran Kaue Dalmoro38:002TAtlÃ©tico/MG23 - Nathan Allan de Souza11 - Marcos da Silva Franca"
+ObservaÃ§Ãµes Eventuais
 Nada houve de anormal.
-"Ocorrências / ObservaçõesNada houve de anormal.Motivo de atraso no início e/ou reinício, e de acréscimos:Sem atrasos.acréscimos devido a substituições , retirada de jogadores supostamente lesionados e reposição de bola.foi respeitado um minuto de silêncio antesdo início da partida em homenagem póstuma as vítimas da covid-19 e ao senhor josé henrique neto, pai do arbitro marcelo de lima henrique.Observações EventuaisNada houve de anormal.Relatório do AssistenteNada a relatar.SubstituiçõesTempo1T/2TEquipeEntrouSaiu45:00INTInternacional/RS19 - Rodrigo Oliveira Lindoso5 - Damian Marcelo Musto13:002TInternacional/RS45 - Bruno Conceicao Praxedes13 - Rodrigo Dourado Cunha17:002TInternacional/RS17 - Thiago Galhardo do Nasciment...18 - Leandro Miguel Fernandez25:002TAtlético/MG21 - Alan Steven Franco Palma18 - Eduardo Colcenti Antunes29:002TInternacional/RS27 - Mauricio Magalhaes Prado23 - Marcos Guilherme de Almeida ...29:002TInternacional/RS31 - Joao Gabriel Martins Peglow11 - Yuri Alberto Monteiro da Silva31:002TAtlético/MG38 - Marrony da Silva Liberato Si...10 - Eduardo Jesus Vargas Rojas31:002TAtlético/MG15 - Federico Matias Zaracho20 - Hyoran Kaue Dalmoro38:002TAtlético/MG23 - Nathan Allan de Souza11 - Marcos da Silva Franca",,,,
-Substituições,,,,
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormal.Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:Sem atrasos.acrÃ©scimos devido a substituiÃ§Ãµes , retirada de jogadores supostamente lesionados e reposiÃ§Ã£o de bola.foi respeitado um minuto de silÃªncio antesdo inÃ­cio da partida em homenagem pÃ³stuma as vÃ­timas da covid-19 e ao senhor josÃ© henrique neto, pai do arbitro marcelo de lima henrique.ObservaÃ§Ãµes EventuaisNada houve de anormal.RelatÃ³rio do AssistenteNada a relatar.SubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu45:00INTInternacional/RS19 - Rodrigo Oliveira Lindoso5 - Damian Marcelo Musto13:002TInternacional/RS45 - Bruno Conceicao Praxedes13 - Rodrigo Dourado Cunha17:002TInternacional/RS17 - Thiago Galhardo do Nasciment...18 - Leandro Miguel Fernandez25:002TAtlÃ©tico/MG21 - Alan Steven Franco Palma18 - Eduardo Colcenti Antunes29:002TInternacional/RS27 - Mauricio Magalhaes Prado23 - Marcos Guilherme de Almeida ...29:002TInternacional/RS31 - Joao Gabriel Martins Peglow11 - Yuri Alberto Monteiro da Silva31:002TAtlÃ©tico/MG38 - Marrony da Silva Liberato Si...10 - Eduardo Jesus Vargas Rojas31:002TAtlÃ©tico/MG15 - Federico Matias Zaracho20 - Hyoran Kaue Dalmoro38:002TAtlÃ©tico/MG23 - Nathan Allan de Souza11 - Marcos da Silva Franca",,,,
+SubstituiÃ§Ãµes,,,,
 Tempo,1T/2T,Equipe,Entrou,Saiu
 45:00,INT,Internacional/RS,19 - Rodrigo Oliveira Lindoso,5 - Damian Marcelo Musto
 13:00,2T,Internacional/RS,45 - Bruno Conceicao Praxedes,13 - Rodrigo Dourado Cunha
 17:00,2T,Internacional/RS,17 - Thiago Galhardo do Nasciment...,18 - Leandro Miguel Fernandez
-25:00,2T,Atlético/MG,21 - Alan Steven Franco Palma,18 - Eduardo Colcenti Antunes
+25:00,2T,AtlÃ©tico/MG,21 - Alan Steven Franco Palma,18 - Eduardo Colcenti Antunes
 29:00,2T,Internacional/RS,27 - Mauricio Magalhaes Prado,23 - Marcos Guilherme de Almeida ...
 29:00,2T,Internacional/RS,31 - Joao Gabriel Martins Peglow,11 - Yuri Alberto Monteiro da Silva
-31:00,2T,Atlético/MG,38 - Marrony da Silva Liberato Si...,10 - Eduardo Jesus Vargas Rojas
-31:00,2T,Atlético/MG,15 - Federico Matias Zaracho,20 - Hyoran Kaue Dalmoro
-38:00,2T,Atlético/MG,23 - Nathan Allan de Souza,11 - Marcos da Silva Franca
-"Ocorrências / ObservaçõesNada houve de anormal.Motivo de atraso no início e/ou reinício, e de acréscimos:Sem atrasos.acréscimos devido a substituições , retirada de jogadores supostamente lesionados e reposição de bola.foi respeitado um minuto de silêncio antesdo início da partida em homenagem póstuma as vítimas da covid-19 e ao senhor josé henrique neto, pai do arbitro marcelo de lima henrique.Observações EventuaisNada houve de anormal.Relatório do AssistenteNada a relatar.SubstituiçõesTempo1T/2TEquipeEntrouSaiu45:00INTInternacional/RS19 - Rodrigo Oliveira Lindoso5 - Damian Marcelo Musto13:002TInternacional/RS45 - Bruno Conceicao Praxedes13 - Rodrigo Dourado Cunha17:002TInternacional/RS17 - Thiago Galhardo do Nasciment...18 - Leandro Miguel Fernandez25:002TAtlético/MG21 - Alan Steven Franco Palma18 - Eduardo Colcenti Antunes29:002TInternacional/RS27 - Mauricio Magalhaes Prado23 - Marcos Guilherme de Almeida ...29:002TInternacional/RS31 - Joao Gabriel Martins Peglow11 - Yuri Alberto Monteiro da Silva31:002TAtlético/MG38 - Marrony da Silva Liberato Si...10 - Eduardo Jesus Vargas Rojas31:002TAtlético/MG15 - Federico Matias Zaracho20 - Hyoran Kaue Dalmoro38:002TAtlético/MG23 - Nathan Allan de Souza11 - Marcos da Silva Franca"
-"Motivo de atraso no início e/ou reinício, e de acréscimos:Sem atrasos.acréscimos devido a substituições , retirada de jogadores supostamente lesionados e reposição de bola.foi respeitado um minuto de silêncio antesdo início da partida em homenagem póstuma as vítimas da covid-19 e ao senhor josé henrique neto, pai do arbitro marcelo de lima henrique."
-"Ocorrências / ObservaçõesNada houve de anormal.Motivo de atraso no início e/ou reinício, e de acréscimos:Sem atrasos.acréscimos devido a substituições , retirada de jogadores supostamente lesionados e reposição de bola.foi respeitado um minuto de silêncio antesdo início da partida em homenagem póstuma as vítimas da covid-19 e ao senhor josé henrique neto, pai do arbitro marcelo de lima henrique.Observações EventuaisNada houve de anormal.Relatório do AssistenteNada a relatar.SubstituiçõesTempo1T/2TEquipeEntrouSaiu45:00INTInternacional/RS19 - Rodrigo Oliveira Lindoso5 - Damian Marcelo Musto13:002TInternacional/RS45 - Bruno Conceicao Praxedes13 - Rodrigo Dourado Cunha17:002TInternacional/RS17 - Thiago Galhardo do Nasciment...18 - Leandro Miguel Fernandez25:002TAtlético/MG21 - Alan Steven Franco Palma18 - Eduardo Colcenti Antunes29:002TInternacional/RS27 - Mauricio Magalhaes Prado23 - Marcos Guilherme de Almeida ...29:002TInternacional/RS31 - Joao Gabriel Martins Peglow11 - Yuri Alberto Monteiro da Silva31:002TAtlético/MG38 - Marrony da Silva Liberato Si...10 - Eduardo Jesus Vargas Rojas31:002TAtlético/MG15 - Federico Matias Zaracho20 - Hyoran Kaue Dalmoro38:002TAtlético/MG23 - Nathan Allan de Souza11 - Marcos da Silva Franca"
-Relatório do Assistente
+31:00,2T,AtlÃ©tico/MG,38 - Marrony da Silva Liberato Si...,10 - Eduardo Jesus Vargas Rojas
+31:00,2T,AtlÃ©tico/MG,15 - Federico Matias Zaracho,20 - Hyoran Kaue Dalmoro
+38:00,2T,AtlÃ©tico/MG,23 - Nathan Allan de Souza,11 - Marcos da Silva Franca
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormal.Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:Sem atrasos.acrÃ©scimos devido a substituiÃ§Ãµes , retirada de jogadores supostamente lesionados e reposiÃ§Ã£o de bola.foi respeitado um minuto de silÃªncio antesdo inÃ­cio da partida em homenagem pÃ³stuma as vÃ­timas da covid-19 e ao senhor josÃ© henrique neto, pai do arbitro marcelo de lima henrique.ObservaÃ§Ãµes EventuaisNada houve de anormal.RelatÃ³rio do AssistenteNada a relatar.SubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu45:00INTInternacional/RS19 - Rodrigo Oliveira Lindoso5 - Damian Marcelo Musto13:002TInternacional/RS45 - Bruno Conceicao Praxedes13 - Rodrigo Dourado Cunha17:002TInternacional/RS17 - Thiago Galhardo do Nasciment...18 - Leandro Miguel Fernandez25:002TAtlÃ©tico/MG21 - Alan Steven Franco Palma18 - Eduardo Colcenti Antunes29:002TInternacional/RS27 - Mauricio Magalhaes Prado23 - Marcos Guilherme de Almeida ...29:002TInternacional/RS31 - Joao Gabriel Martins Peglow11 - Yuri Alberto Monteiro da Silva31:002TAtlÃ©tico/MG38 - Marrony da Silva Liberato Si...10 - Eduardo Jesus Vargas Rojas31:002TAtlÃ©tico/MG15 - Federico Matias Zaracho20 - Hyoran Kaue Dalmoro38:002TAtlÃ©tico/MG23 - Nathan Allan de Souza11 - Marcos da Silva Franca"
+"Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:Sem atrasos.acrÃ©scimos devido a substituiÃ§Ãµes , retirada de jogadores supostamente lesionados e reposiÃ§Ã£o de bola.foi respeitado um minuto de silÃªncio antesdo inÃ­cio da partida em homenagem pÃ³stuma as vÃ­timas da covid-19 e ao senhor josÃ© henrique neto, pai do arbitro marcelo de lima henrique."
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormal.Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:Sem atrasos.acrÃ©scimos devido a substituiÃ§Ãµes , retirada de jogadores supostamente lesionados e reposiÃ§Ã£o de bola.foi respeitado um minuto de silÃªncio antesdo inÃ­cio da partida em homenagem pÃ³stuma as vÃ­timas da covid-19 e ao senhor josÃ© henrique neto, pai do arbitro marcelo de lima henrique.ObservaÃ§Ãµes EventuaisNada houve de anormal.RelatÃ³rio do AssistenteNada a relatar.SubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu45:00INTInternacional/RS19 - Rodrigo Oliveira Lindoso5 - Damian Marcelo Musto13:002TInternacional/RS45 - Bruno Conceicao Praxedes13 - Rodrigo Dourado Cunha17:002TInternacional/RS17 - Thiago Galhardo do Nasciment...18 - Leandro Miguel Fernandez25:002TAtlÃ©tico/MG21 - Alan Steven Franco Palma18 - Eduardo Colcenti Antunes29:002TInternacional/RS27 - Mauricio Magalhaes Prado23 - Marcos Guilherme de Almeida ...29:002TInternacional/RS31 - Joao Gabriel Martins Peglow11 - Yuri Alberto Monteiro da Silva31:002TAtlÃ©tico/MG38 - Marrony da Silva Liberato Si...10 - Eduardo Jesus Vargas Rojas31:002TAtlÃ©tico/MG15 - Federico Matias Zaracho20 - Hyoran Kaue Dalmoro38:002TAtlÃ©tico/MG23 - Nathan Allan de Souza11 - Marcos da Silva Franca"
+RelatÃ³rio do Assistente
 Nada a relatar.
-"Ocorrências / ObservaçõesNada houve de anormal.Motivo de atraso no início e/ou reinício, e de acréscimos:Sem atrasos.acréscimos devido a substituições , retirada de jogadores supostamente lesionados e reposição de bola.foi respeitado um minuto de silêncio antesdo início da partida em homenagem póstuma as vítimas da covid-19 e ao senhor josé henrique neto, pai do arbitro marcelo de lima henrique.Observações EventuaisNada houve de anormal.Relatório do AssistenteNada a relatar.SubstituiçõesTempo1T/2TEquipeEntrouSaiu45:00INTInternacional/RS19 - Rodrigo Oliveira Lindoso5 - Damian Marcelo Musto13:002TInternacional/RS45 - Bruno Conceicao Praxedes13 - Rodrigo Dourado Cunha17:002TInternacional/RS17 - Thiago Galhardo do Nasciment...18 - Leandro Miguel Fernandez25:002TAtlético/MG21 - Alan Steven Franco Palma18 - Eduardo Colcenti Antunes29:002TInternacional/RS27 - Mauricio Magalhaes Prado23 - Marcos Guilherme de Almeida ...29:002TInternacional/RS31 - Joao Gabriel Martins Peglow11 - Yuri Alberto Monteiro da Silva31:002TAtlético/MG38 - Marrony da Silva Liberato Si...10 - Eduardo Jesus Vargas Rojas31:002TAtlético/MG15 - Federico Matias Zaracho20 - Hyoran Kaue Dalmoro38:002TAtlético/MG23 - Nathan Allan de Souza11 - Marcos da Silva Franca",,,,
-Ocorrências / Observações,,,,
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormal.Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:Sem atrasos.acrÃ©scimos devido a substituiÃ§Ãµes , retirada de jogadores supostamente lesionados e reposiÃ§Ã£o de bola.foi respeitado um minuto de silÃªncio antesdo inÃ­cio da partida em homenagem pÃ³stuma as vÃ­timas da covid-19 e ao senhor josÃ© henrique neto, pai do arbitro marcelo de lima henrique.ObservaÃ§Ãµes EventuaisNada houve de anormal.RelatÃ³rio do AssistenteNada a relatar.SubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu45:00INTInternacional/RS19 - Rodrigo Oliveira Lindoso5 - Damian Marcelo Musto13:002TInternacional/RS45 - Bruno Conceicao Praxedes13 - Rodrigo Dourado Cunha17:002TInternacional/RS17 - Thiago Galhardo do Nasciment...18 - Leandro Miguel Fernandez25:002TAtlÃ©tico/MG21 - Alan Steven Franco Palma18 - Eduardo Colcenti Antunes29:002TInternacional/RS27 - Mauricio Magalhaes Prado23 - Marcos Guilherme de Almeida ...29:002TInternacional/RS31 - Joao Gabriel Martins Peglow11 - Yuri Alberto Monteiro da Silva31:002TAtlÃ©tico/MG38 - Marrony da Silva Liberato Si...10 - Eduardo Jesus Vargas Rojas31:002TAtlÃ©tico/MG15 - Federico Matias Zaracho20 - Hyoran Kaue Dalmoro38:002TAtlÃ©tico/MG23 - Nathan Allan de Souza11 - Marcos da Silva Franca",,,,
+OcorrÃªncias / ObservaÃ§Ãµes,,,,
 Nada houve de anormal.,,,,
-"Motivo de atraso no início e/ou reinício, e de acréscimos:Sem atrasos.acréscimos devido a substituições , retirada de jogadores supostamente lesionados e reposição de bola.foi respeitado um minuto de silêncio antesdo início da partida em homenagem póstuma as vítimas da covid-19 e ao senhor josé henrique neto, pai do arbitro marcelo de lima henrique.",,,,
-Observações Eventuais,,,,
+"Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:Sem atrasos.acrÃ©scimos devido a substituiÃ§Ãµes , retirada de jogadores supostamente lesionados e reposiÃ§Ã£o de bola.foi respeitado um minuto de silÃªncio antesdo inÃ­cio da partida em homenagem pÃ³stuma as vÃ­timas da covid-19 e ao senhor josÃ© henrique neto, pai do arbitro marcelo de lima henrique.",,,,
+ObservaÃ§Ãµes Eventuais,,,,
 Nada houve de anormal.,,,,
-Relatório do Assistente,,,,
+RelatÃ³rio do Assistente,,,,
 Nada a relatar.,,,,
-Substituições,,,,
+SubstituiÃ§Ãµes,,,,
 Tempo,1T/2T,Equipe,Entrou,Saiu
 45:00,INT,Internacional/RS,19 - Rodrigo Oliveira Lindoso,5 - Damian Marcelo Musto
 13:00,2T,Internacional/RS,45 - Bruno Conceicao Praxedes,13 - Rodrigo Dourado Cunha
 17:00,2T,Internacional/RS,17 - Thiago Galhardo do Nasciment...,18 - Leandro Miguel Fernandez
-25:00,2T,Atlético/MG,21 - Alan Steven Franco Palma,18 - Eduardo Colcenti Antunes
+25:00,2T,AtlÃ©tico/MG,21 - Alan Steven Franco Palma,18 - Eduardo Colcenti Antunes
 29:00,2T,Internacional/RS,27 - Mauricio Magalhaes Prado,23 - Marcos Guilherme de Almeida ...
 29:00,2T,Internacional/RS,31 - Joao Gabriel Martins Peglow,11 - Yuri Alberto Monteiro da Silva
-31:00,2T,Atlético/MG,38 - Marrony da Silva Liberato Si...,10 - Eduardo Jesus Vargas Rojas
-31:00,2T,Atlético/MG,15 - Federico Matias Zaracho,20 - Hyoran Kaue Dalmoro
-38:00,2T,Atlético/MG,23 - Nathan Allan de Souza,11 - Marcos da Silva Franca
+31:00,2T,AtlÃ©tico/MG,38 - Marrony da Silva Liberato Si...,10 - Eduardo Jesus Vargas Rojas
+31:00,2T,AtlÃ©tico/MG,15 - Federico Matias Zaracho,20 - Hyoran Kaue Dalmoro
+38:00,2T,AtlÃ©tico/MG,23 - Nathan Allan de Souza,11 - Marcos da Silva Franca

@@ -1,6 +1,6 @@
-Campeonato:,Campeonato Brasileiro - Série A/2020,,Rodada:,22
-Jogo:,Corinthians / SP X Grêmio / RS,,,
-Data:,22/11/2020 Horário: 20:30 Estádio:,Arena Corinthians / Sao Paulo,,
+Campeonato:,Campeonato Brasileiro - SÃ©rie A/2020,,Rodada:,22
+Jogo:,Corinthians / SP X GrÃªmio / RS,,,
+Data:,22/11/2020 HorÃ¡rio: 20:30 EstÃ¡dio:,Arena Corinthians / Sao Paulo,,
 "",,Arbitragem
 Arbitro:,Caio Max Augusto Vieira (AB / RN),
 Arbitro Assistente 1:,Jean Marcio dos Santos (AB / RN),
@@ -13,15 +13,15 @@ AVAR1:,Eduardo Tomaz de Aquino Valadao (AB / GO),
 AVAR2:,Cleriston Clay Barreto Rios (MTR / SE),
 "",,,Cronologia,,,
 "",1o Tempo,,2o Tempo,,,
-Entrada do mandante:,20:21Atraso:,,Não Houve Entrada do mandante: 21:35,,Atraso:,Não Houve
-Entrada do visitante:,20:22Atraso:,,Não Houve Entrada do visitante: 21:36,,Atraso:,Não Houve
-Início 1o Tempo:,20:30Atraso:,,Não Houve Início do 2o Tempo: 21:38,,Atraso:,Não Houve
-Término do 1o Tempo:,21:23Acréscimo:,,8 min Término do 2o Tempo: 22:28,Acréscimo:,,5 min
+Entrada do mandante:,20:21Atraso:,,NÃ£o Houve Entrada do mandante: 21:35,,Atraso:,NÃ£o Houve
+Entrada do visitante:,20:22Atraso:,,NÃ£o Houve Entrada do visitante: 21:36,,Atraso:,NÃ£o Houve
+InÃ­cio 1o Tempo:,20:30Atraso:,,NÃ£o Houve InÃ­cio do 2o Tempo: 21:38,,Atraso:,NÃ£o Houve
+TÃ©rmino do 1o Tempo:,21:23AcrÃ©scimo:,,8 min TÃ©rmino do 2o Tempo: 22:28,AcrÃ©scimo:,,5 min
 Resultado do 1o Tempo: 0 X 0,,,Resultado Final: 0 X 0,,,
-"",,,,,Relação de Jogadores,,,,
-"",,Corinthians / SP,,,,Grêmio / RS,,,
+"",,,,,RelaÃ§Ã£o de Jogadores,,,,
+"",,Corinthians / SP,,,,GrÃªmio / RS,,,
 No,Apelido,Nome Completo,T/R,P/A,CBF No Apelido,Nome Completo T/R,,P/A,CBF
-12,Cássio,Cassio Ramos,T(g),P,166276 27 Vanderlei,Vanderlei Farias da Silva T(g),,P,177770
+12,CÃ¡ssio,Cassio Ramos,T(g),P,166276 27 Vanderlei,Vanderlei Farias da Silva T(g),,P,177770
 4,Gil,Carlos Gilberto do N ...,T,P,178854 3 Geromel,Pedro Tonon Geromel T,,P,165322
 5,Gabriel,Gabriel Girotto Franco,T,P,320839 7 Matheus He ...,Matheus Henrique de SouzaT,,P,407776
 7,Luan,Luan Guilherme de Je ...,T,P,409960 10 Jean Pyerre,Jean Pyerre Casagran ... T,,P,422351
@@ -42,10 +42,10 @@ No,Apelido,Nome Completo,T/R,P/A,CBF No Apelido,Nome Completo T/R,,P/A,CBF
 21,Angelo Araos,Angelo Giovani Araos ...,R,P,633271 21 Cesar Pinares,Cesar Ignacio Pinare ... R,,P,706467
 34,Raul,Raul Gustavo Pereira ...,R,P,509667 32 Diogo,Diogo Barbosa Mendanha R,,P,339876
 37,Everaldo,Everaldo Silva do Na ...,R,P,438556 34 Lucas Araujo,Lucas Araujo de Oliveira R,,P,434877
-39,Xavier,João Vitor Xavier de ...,R,P,523897 46 Isaque,Isaque Elias Brito R,,P,354923
+39,Xavier,JoÃ£o Vitor Xavier de ...,R,P,523897 46 Isaque,Isaque Elias Brito R,,P,354923
 40,Guilherme,Guilherme Vicentini  ...,R,P,509089 47 Ferreira,Aldemir dos Santos F ... R,,P,505058
 No,Apelido,Nome Completo,T/R,P/A,CBF,No,Apelido,Nome Completo T/R,,P/A,CBF
-12,Cássio,Cassio Ramos,T(g),P,166276,27,Vanderlei,Vanderlei Farias da Silva T(g),,P,177770
+12,CÃ¡ssio,Cassio Ramos,T(g),P,166276,27,Vanderlei,Vanderlei Farias da Silva T(g),,P,177770
 4,Gil,Carlos Gilberto do N ...,T,P,178854,3,Geromel,Pedro Tonon Geromel T,,P,165322
 5,Gabriel,Gabriel Girotto Franco,T,P,320839,7,Matheus He ...,Matheus Henrique de SouzaT,,P,407776
 7,Luan,Luan Guilherme de Je ...,T,P,409960,10,Jean Pyerre,Jean Pyerre Casagran ... T,,P,422351
@@ -66,32 +66,32 @@ No,Apelido,Nome Completo,T/R,P/A,CBF,No,Apelido,Nome Completo T/R,,P/A,CBF
 21,Angelo Araos,Angelo Giovani Araos ...,R,P,633271,21,Cesar Pinares,Cesar Ignacio Pinare ... R,,P,706467
 34,Raul,Raul Gustavo Pereira ...,R,P,509667,32,Diogo,Diogo Barbosa Mendanha R,,P,339876
 37,Everaldo,Everaldo Silva do Na ...,R,P,438556,34,Lucas Araujo,Lucas Araujo de Oliveira R,,P,434877
-39,Xavier,João Vitor Xavier de ...,R,P,523897,46,Isaque,Isaque Elias Brito R,,P,354923
+39,Xavier,JoÃ£o Vitor Xavier de ...,R,P,523897,46,Isaque,Isaque Elias Brito R,,P,354923
 40,Guilherme,Guilherme Vicentini  ...,R,P,509089,47,Ferreira,Aldemir dos Santos F ... R,,P,505058
-"",,Comissão Técnica,
-"",Corinthians / SP,,Grêmio / RS
-Técnico:,Vagner Carmo Mancini,Técnico:,Renato Portaluppi
-Auxiliar Técnico:,Anderson Luis Da Silva,Auxiliar Técnico:,Alexandre Pereira Mendes
-Médico:,Julio Stancati Filho,Médico:,Gabriel Severo Da Silva
+"",,ComissÃ£o TÃ©cnica,
+"",Corinthians / SP,,GrÃªmio / RS
+TÃ©cnico:,Vagner Carmo Mancini,TÃ©cnico:,Renato Portaluppi
+Auxiliar TÃ©cnico:,Anderson Luis Da Silva,Auxiliar TÃ©cnico:,Alexandre Pereira Mendes
+MÃ©dico:,Julio Stancati Filho,MÃ©dico:,Gabriel Severo Da Silva
 Treinador De Goleiros:,Marcelo Flain Carpes,Treinador De Goleiros:,Mauri Costa Lima
-Preparador Físico:,Flavio Henrique De Oliveira,Preparador Físico:,Marcio Meira De Vasconcelos
+Preparador FÃ­sico:,Flavio Henrique De Oliveira,Preparador FÃ­sico:,Marcio Meira De Vasconcelos
 Massagista:,Jomar Espirito Santos Dos Santos,Massagista:,Anderson Machado Meurer
-"",,,,Cartões Vermelhos
+"",,,,CartÃµes Vermelhos
 Tempo 1T/2T,No,,Nome do Jogador,
 28:00 1T,25,,Marllon Goncalves Jeronimo Borges - Corinthians/SP,
-Cartão Vermelho Direto,,,Motivo: V1.  For culpado de jogo brusco grave  - Expulsei com cartão vermelho direto por jogo brusco grave ao dar uma entrada com a,
-"",,,"sola da chuteira atingindo a canela de seu adversário de n. 07, sr: matheus henrique de souza, na disputa da bola ocasionando uma",
-"",,,"lesão com sangramento, aonde o mesmo necessitou de atendimento médico e continuou na partida posteriormente, o jogador expulso",
+CartÃ£o Vermelho Direto,,,Motivo: V1.  For culpado de jogo brusco grave  - Expulsei com cartÃ£o vermelho direto por jogo brusco grave ao dar uma entrada com a,
+"",,,"sola da chuteira atingindo a canela de seu adversÃ¡rio de n. 07, sr: matheus henrique de souza, na disputa da bola ocasionando uma",
+"",,,"lesÃ£o com sangramento, aonde o mesmo necessitou de atendimento mÃ©dico e continuou na partida posteriormente, o jogador expulso",
 "",,,saiu de campo normalmente.,
-"",,,,Substituições,
+"",,,,SubstituiÃ§Ãµes,
 Tempo,1T/2T,,Equipe,Entrou,Saiu
-45:00,INT,Grêmio/RS,,32 - Diogo Barbosa Mendanha,12 - Bruno Cortes Barbosa
-45:00,INT,Grêmio/RS,,21 - Cesar Ignacio Pinares Tamayo,15 - Darlan Pereira Mendes
+45:00,INT,GrÃªmio/RS,,32 - Diogo Barbosa Mendanha,12 - Bruno Cortes Barbosa
+45:00,INT,GrÃªmio/RS,,21 - Cesar Ignacio Pinares Tamayo,15 - Darlan Pereira Mendes
 33:00,1T,Corinthians/SP,,14 - Bruno Mendez Cittadini,33 - Matheus Alvarenga de Oliveira
-25:00,2T,Corinthians/SP,,39 - João Vitor Xavier de Almeida,24 - Victor Danilo Cantillo Jimenez
+25:00,2T,Corinthians/SP,,39 - JoÃ£o Vitor Xavier de Almeida,24 - Victor Danilo Cantillo Jimenez
 25:00,2T,Corinthians/SP,,6 - Lucas Piton Crivellaro,28 - Jonathan Renato Barbosa
-28:00,2T,Grêmio/RS,,19 - Diego Churin,17 - Luis Manuel Orejuela Garcia
-36:00,2T,Grêmio/RS,,46 - Isaque Elias Brito,10 - Jean Pyerre Casagrande Silve...
-36:00,2T,Grêmio/RS,,2 - Victor Ferraz Macedo,7 - Matheus Henrique de Souza
+28:00,2T,GrÃªmio/RS,,19 - Diego Churin,17 - Luis Manuel Orejuela Garcia
+36:00,2T,GrÃªmio/RS,,46 - Isaque Elias Brito,10 - Jean Pyerre Casagrande Silve...
+36:00,2T,GrÃªmio/RS,,2 - Victor Ferraz Macedo,7 - Matheus Henrique de Souza
 41:00,2T,Corinthians/SP,,18 - Leonardo Natel Vieira,7 - Luan Guilherme de Jesus Vieira
 41:00,2T,Corinthians/SP,,20 - Guilherme de Aguiar Camacho,5 - Gabriel Girotto Franco
