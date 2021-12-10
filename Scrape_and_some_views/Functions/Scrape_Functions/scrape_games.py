@@ -10,14 +10,14 @@ years = [str(i) for i in range(i_year, f_year + 1)]
 print('Creating folders')
 def create_folders(competitions, years):
 	try:
-		os.stat('..\..\All data')
+		os.stat('../../raw_data')
 	except:
-		os.mkdir('..\..\All data')
+		os.mkdir('../../raw_data')
 
 	try:
-		os.stat('..\..\Participations and Goals')
+		os.stat('../../clean_data')
 	except:
-		os.mkdir('..\..\Participations and Goals')
+		os.mkdir('../../clean_data')
 	
     for competition in competitions:
         try:
@@ -26,22 +26,22 @@ def create_folders(competitions, years):
             os.mkdir(competition)
         for year in years:
             try:
-                os.stat(competition + '\\' + year)
+                os.stat(competition + '/' + year)
             except:
-                os.mkdir(competition + '\\' + year)
+                os.mkdir(competition + '/' + year)
                 
-competitions = ['..\..\All data\Serie A',
-                '..\..\All data\Serie B',
-                '..\..\All data\Serie C',
-                '..\..\All data\Serie D',
-                '..\..\All data\Copa do Brasil']
+competitions = ['../../raw_data/Serie A',
+                '../../raw_data/Serie B',
+                '../../raw_data/Serie C',
+                '../../raw_data/Serie D',
+                '../../raw_data/Copa do Brasil']
 
 create_folders(competitions, years)
-competitions = ['..\..\Participations and Goals\Serie A',
-                '..\..\Participations and Goals\Serie B',
-                '..\..\Participations and Goals\Serie C',
-                '..\..\Participations and Goals\Serie D',
-                '..\..\Participations and Goals\Copa do Brasil']
+competitions = ['../../clean_data/Serie A',
+                '../../clean_data/Serie B',
+                '../../clean_data/Serie C',
+                '../../clean_data/Serie D',
+                '../../clean_data/Copa do Brasil']
 
 create_folders(competitions, years)
 
@@ -63,7 +63,7 @@ with open('../../errors.csv', 'w', newline = '') as file:
                 print('Ano: ' + str(i), 'Jogos:', j + 1)
             for comp in competitions:
 				game = str(j + 1).zfill(3)
-        		local = '../../All data/' + comp[1] + '/' + str(i) + '/Game ' + game + '.csv'
+        		local = '../../raw_data/' + comp[1] + '/' + str(i) + '/Game ' + game + '.csv'
         		file = path + comp[0] + str(j + 1) + end_path
         		try:
     				tabula.io.convert_into(file, local, pages = 'all')
@@ -73,7 +73,7 @@ with open('../../errors.csv', 'w', newline = '') as file:
                 
 years = [str(i) for i in range(2013, f_year + 1)]
 print('Creating index')
-folder = '../../All data/'
+folder = '../../raw_data/'
 competitions = ['Serie A',
 				'Serie B',
 				'Serie C',
@@ -83,7 +83,7 @@ competitions = ['Serie A',
 for comp in competitions:
     for year in years:
         print(comp, year)
-        with open('../../Participations and Goals/' + comp + '/' + year + '/Index.csv', 'w', newline = '') as file:
+        with open('../../clean_data/' + comp + '/' + year + '/Index.csv', 'w', newline = '') as file:
             writer = csv.writer(file)
             writer.writerow(['Game', 'Home', 'Away'])
             for game in range(1, 601):
@@ -137,8 +137,8 @@ with open('../../errors_participations.csv', 'w', newline = '') as error_file:
                 print(year, game)
             for comp in competitions:
                 try:
-                    file = '../../All data/' + comp + '/' + year + '/Game ' + str(game).zfill(3) + '.csv'
-                    path = '../../Participations and Goals/' + comp + '/' + year + '/Game ' + str(game).zfill(3) + '.csv'
+                    file = '../../raw_data/' + comp + '/' + year + '/Game ' + str(game).zfill(3) + '.csv'
+                    path = '../../clean_data/' + comp + '/' + year + '/Game ' + str(game).zfill(3) + '.csv'
                     participations = find_game_players(file)
                     with open(path, 'w', newline = '') as file:
                         writer = csv.writer(file)
@@ -150,7 +150,7 @@ with open('../../errors_participations.csv', 'w', newline = '') as error_file:
 print('Catching goals')
 for comp in competitions:
     for year in years:
-        path = '../../Participations and Goals/' + comp + '/' + year + '/'
+        path = '../../clean_data/' + comp + '/' + year + '/'
         with open(path + 'goals.csv', 'w', newline = '') as file:
             all_goals = [['CBF', 'Time', 'Type', 'Game']]
             writer = csv.writer(file)
